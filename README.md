@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Indigo Narrative"
+       title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
@@ -20,14 +20,6 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-### HB Picture
-This is a picture of a woman wearing clothing dyed with indigo.
-<param ve-image
-       label="Natural Indigo"
-       description="Woman wearing indigo-dyed clothing"
-       license="CC BY-SA 4.0"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Natural_Indigo.jpg">
-       
 # Basic usage
 
 ## Image
@@ -39,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Den_Haag_-_Mauritshuis_-_Johannes_Vermeer_%281632-1675%29_-_Girl_with_a_Pearl_Earring_c._1665.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 ## Map
 
