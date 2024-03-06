@@ -22,7 +22,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ### HB Picture
 This is a picture of a woman wearing clothing dyed with indigo.
-<param ve-image 
+<param ve-image
        label="Natural Indigo"
        description="Woman wearing indigo-dyed clothing."
        license="CC BY-SA 4.0"
