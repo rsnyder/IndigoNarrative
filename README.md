@@ -39,7 +39,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Natural_Indigo.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Den_Haag_-_Mauritshuis_-_Johannes_Vermeer_%281632-1675%29_-_Girl_with_a_Pearl_Earring_c._1665.jpg">
 
 ## Map
 
