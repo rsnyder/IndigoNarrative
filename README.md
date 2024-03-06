@@ -26,7 +26,7 @@ This is a picture of a woman wearing clothing dyed with indigo.
        label="Natural Indigo"
        description="Woman wearing indigo-dyed clothing"
        license="CC BY-SA 4.0"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Natural_Indigo.jpg">
+       url="https://commons.wikimedia.org/wiki/File:Natural_Indigo.jpg">
        
 # Basic usage
 
