@@ -20,13 +20,14 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-###HB Picture
+### HB Picture
 This is a picture of a woman wearing clothing dyed with indigo.
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Natural_Indigo.jpg"
-       label="HB Picture"
-       decription="Picture of a woman wearing clothing dyed in indigo.
-       license="CC BY-SA 4.0">
+url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_Daphne_statue.jpg"
+label="Apollo and Daphne" 
+description="sculpture by Gian Lorenzo Bernini"
+license="CC BY-SA 4.0">
+
 
 
 # Basic usage
