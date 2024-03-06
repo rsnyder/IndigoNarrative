@@ -23,10 +23,10 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 ### HB Picture
 This is a picture of a woman wearing clothing dyed with indigo.
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_Daphne_statue.jpg"
-label="Apollo and Daphne" 
-description="sculpture by Gian Lorenzo Bernini"
-license="CC BY-SA 4.0">
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Natural_Indigo.jpg"
+       label="Natural Indigo" 
+       description="Woman wearing indigo-dyed clothing."
+       license="CC BY-SA 4.0">
 
 
 
