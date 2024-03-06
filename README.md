@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
+       title="Indigo Narrative"
        author="JSTOR Labs team"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
@@ -23,7 +23,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 ### HB Picture
 This is a picture of a woman wearing clothing dyed with indigo.
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Natural_Indigo.jpg" 
+       url="https://commons.wikimedia.org/wiki/File:Natural_Indigo.jpg" 
        label="Natural Indigo" 
        description="Woman wearing indigo-dyed clothing." 
        license="CC BY-SA 4.0">
