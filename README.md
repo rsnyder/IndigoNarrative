@@ -34,9 +34,7 @@ This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha 
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-This illustration, which is included as a supplement to writings about indigo production, depicts indigo workers churning indigo leaves.[^1]
+ This illustration, which is included in _L'art de l'indigotier_ as a supplement to writings about indigo production, depicts indigo workers churning indigo leaves.[^1]
 <param ve-image 
        label="L'art de l'indigotier" 
        description="painting by Johannes Vermeer" 
