@@ -22,7 +22,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by Mahatma Gandhi in an effort to receive fair pay for indigo farmers.
-<param ve-image        
+<param ve-image      
        label="Commemorative Stamp"
        description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
        license="CC BY-SA 4.0"
