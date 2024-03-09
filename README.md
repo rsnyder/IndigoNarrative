@@ -20,7 +20,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-### HB Image
+## Image
 This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by Mahatma Gandhi in an effort to receive fair pay for indigo farmers.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/3/34/Stamp_of_India_-_2017_-_Colnect_696527_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg"
