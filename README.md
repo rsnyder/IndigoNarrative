@@ -20,16 +20,6 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-## Image
-This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by Mahatma Gandhi in an effort to receive fair pay for indigo farmers.
-
-<param ve-image
-       label="Commemorative Stamp"
-       description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
-       license="CC BY-SA 4.0"
-       url="https://upload.wikimedia.org/wikipedia/commons/3/34/Stamp_of_India_-_2017_-_Colnect_696527_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
-
-
 # Basic usage
 
 ## Image
@@ -46,6 +36,15 @@ This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
+
+## Image
+This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by Mahatma Gandhi in an effort to receive fair pay for indigo farmers.
+
+<param ve-image
+       label="Commemorative Stamp"
+       description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
+       license="CC BY-SA 4.0"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/34/Stamp_of_India_-_2017_-_Colnect_696527_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
 
 ## Multiple viewers
 
