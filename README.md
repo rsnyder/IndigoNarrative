@@ -38,7 +38,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Image
-This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by <span data-mouseover-image-zoomto="824,800,1152,938">Mahatma Gandhu</span> in an effort to receive fair pay for indigo farmers.
+This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by <span data-mouseover-image-zoomto="824,800,1152,938">Mahatma Gandhi</span> in an effort to receive fair pay for indigo farmers.
 <param ve-image
        label="Commemorative Stamp"
        description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
