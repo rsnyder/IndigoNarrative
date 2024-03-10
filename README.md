@@ -23,12 +23,14 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 # Basic usage
 
 ## Sample Image 3/11 (jordan)
-This early modern illustration is a sample coded image from BHL. It features an indigo plant.
+This early modern illustration comes from the _Revue Horticole_. It features an indigo plant and its <span data-mouseover-image-zoomto="506,1726,963,778
+">flowers.</span>
 <param ve-image 
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
        url="https://biodiversitylibrary.org/pageImage/54768315">
+
 
 ## Image
 
