@@ -39,7 +39,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
        label="L'art de l'indigotier" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://www.biodiversitylibrary.org/page/40474136">
+       url="https://www.biodiversitylibrary.org/pageImage/40474136">
 
 ## Map
 
