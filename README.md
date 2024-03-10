@@ -22,6 +22,15 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
+## Sample Image 3/11 (jordan)
+This early modern illustration is a sample coded image from BHL. It features an indigo plant.
+<param ve-image 
+url="[https://www.flickr.com/photos/biodivlibrary/50506426638/in/photolist-2jX5D2h-2m8jMsj-JhxwRq-2jQWuqk-2jASucw-2imknMR-2jQWu9J-2kEEgHv-2j12Qav-H4PPa7-bAJzui-2jHPGkD-2jiN56L-ae7cxT-2jp8FV2-czRoQb-2kEEhdD-2kEEgR1-bUXJXF-2m3uqyY-2m5Szvf-2krjaF9-2m8zEAP-2jiHCVK-2kEAak4-2kEDGV5-2kEEhg4-2kEEhax-2kEEh1z-2kEDGPU-2kEAao5-2kEEgL1-2k7jxXR-XZrxcd-guTyom-aABpxQ-pz2Uvk-ab9YUz-e3nHza-VVVGkX-2m2WbDp-dP5xkd-Vy5Qyq-aFqrtZ-WJvSuM-eUykAA-dCRbDg-e2q3kU-axbCup-qea9mw/]"
+label="Early Modern Indigofera Dosua" 
+description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
+license="CC BY-SA 4.0"
+fit="contain">
+
 ## Image
 
  This illustration, which is included in _L'art de l'indigotier_ as a supplement to writings about indigo production, depicts indigo workers churning indigo leaves.[^1]
