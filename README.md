@@ -25,11 +25,10 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 ## Sample Image 3/11 (jordan)
 This early modern illustration is a sample coded image from BHL. It features an indigo plant.
 <param ve-image 
-       manifest="[https://flic.kr/p/2jX5D2h]"
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="CC BY-SA 4.0"
-       fit="contain">
+       license="Public domain"
+       url="https://biodiversitylibrary.org/pageImage/54768315">
 
 ## Image
 
@@ -38,7 +37,7 @@ This early modern illustration is a sample coded image from BHL. It features an 
        label="L'art de l'indigotier" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://www.biodiversitylibrary.org/pageImage/40474136#page/135/mode/1up">
+       url="https://www.biodiversitylibrary.org/page/54768315">
 
 ## Map
 
