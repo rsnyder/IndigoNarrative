@@ -29,7 +29,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="https://www.biodiversitylibrary.org/page/40474136">
 
 
 ## Image
