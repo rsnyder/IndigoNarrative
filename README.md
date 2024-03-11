@@ -48,7 +48,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="18.8257715,-78.5887598" zoom="5" prefer-geojson>
+<param ve-map center="21.4691, -78.6569" zoom="5" prefer-geojson>
 
 ## Image
 This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by <span data-mouseover-image-zoomto="256,267,351,274">Mahatma Gandhi</span> in an effort to receive fair pay for indigo farmers.
