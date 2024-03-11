@@ -16,7 +16,7 @@
 
 # Indigo Plant Narrative
 
-Vermeer's Girl With a Pearl Earring features faded indigo in the <span data-mouseover-image-zoomto="2301,3670,1536,1242">background</span/>. We can just keep this image in here This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+Vermeer's Girl With a Pearl Earring features faded indigo in the <span data-mouseover-image-zoomto="2301,3670,1536,1242">background</span>. We can just keep this image in here This is a sample visual essay demonstrating a few key features of a Visual Essay. 
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c"
        label="Vermeer's Girl With a Pearl Earring" 
@@ -37,7 +37,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
 
 ## Image
 
- This illustration, which is included in _L'art de l'indigotier_ as a supplement to writings about indigo production, depicts indigo workers churning indigo leaves.[^1]
+ This illustration, which is included in _L'art de l'indigotier_ as a supplement to writings about indigo production, depicts indigo workers churning indigo leaves.[^2]
 <param ve-image 
        label="L'art de l'indigotier" 
        description="painting by Johannes Vermeer" 
@@ -69,3 +69,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^2]: [We'll need to convert these to formatted citations later] (https://www.biodiversitylibrary.org/pageImage/40474136)
