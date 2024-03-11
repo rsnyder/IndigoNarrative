@@ -37,7 +37,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
 
 ## Image
 
- This illustration, which is included in _L'art de l'indigotier_ as a supplement to writings about indigo production, depicts indigo workers churning indigo leaves.[^2]
+ This illustration, which is included in _L'art de l'indigotier_ as a supplement to writings about indigo production, depicts indigo workers churning indigo leaves.
 <param ve-image 
        label="L'art de l'indigotier" 
        description="painting by Johannes Vermeer" 
