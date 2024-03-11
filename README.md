@@ -40,7 +40,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
  This illustration, which is included in _L'art de l'indigotier_ (1770) as a supplement to writings about indigo production, depicts indigo workers churning indigo leaves.
 <param ve-image 
        label="L'art de l'indigotier" 
-       description="painting by Johannes Vermeer" 
+       description="by Paul de Beauvais-Raseau, illustrations by L.F. Delatour" 
        license="public domain" 
        url="https://www.biodiversitylibrary.org/pageImage/40474136">
 
