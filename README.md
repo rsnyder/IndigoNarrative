@@ -37,7 +37,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
 
 ## Image
 
- This illustration, which is included in _L'art de l'indigotier_ (1770) as a supplement to writings about indigo production, depicts indigo workers <span data-mouseover-image-zoomto="">churning indigo leaves.</span>
+ This illustration, which is included in _L'art de l'indigotier_ (1770) as a supplement to writings about indigo production, depicts indigo workers <span data-mouseover-image-zoomto="1671,3280,1122,1012">churning indigo leaves.</span>
 <param ve-image 
        label="L'art de l'indigotier" 
        description="by Paul de Beauvais-Raseau, illustrations by L.F. Delatour" 
