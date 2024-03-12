@@ -52,6 +52,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 <param ve-map-marker
        url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg"
        coords="18.952308, -72.218749"
+       size="727, 464"
        circle="true">
 
 ## Image
