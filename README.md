@@ -49,6 +49,10 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
+<param ve-map-marker
+       url="https://slaveryimages.org/database/image-result.php?objectid=388"
+       coords=-"72.35583937914052, 19.167846194570814"
+       circle="true">
 
 ## Image
 This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by <span data-mouseover-image-zoomto="256,267,351,274">Mahatma Gandhi</span> in an effort to receive fair pay for indigo farmers.
