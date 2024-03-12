@@ -46,7 +46,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
 
 ## Map
 
-By the 17th century, the British, Spanish, and French established indigo plantations in the Caribbean (or West Indies). <span data-mouseover-map-flyto="19.057147, -72.527066, 8">Haiti (Saint-Domingue)</span> saw particularly prolific indigo production, and networks of knowledge exchange were eventually established between these colonies and others in West Africa, especially <span data-mouseover-map-flyto="14.593509, -14.521971">Senegal</span>.
+By the 17th century, the British, Spanish, and French established indigo plantations in the Caribbean (or West Indies). <span data-mouseover-map-flyto="19.057147, -72.527066, 8">Haiti (Saint-Domingue)</span> saw particularly prolific indigo production, and networks of knowledge exchange were eventually established between these colonies and others in West Africa, especially <span data-mouseover-map-flyto="14.593509, -14.521971, 5">Senegal</span>.
 <param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
 <param ve-map-marker
        url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg"
