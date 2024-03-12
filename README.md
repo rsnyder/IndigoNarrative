@@ -46,8 +46,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+By the 17th century, the British, Spanish, and French established indigo plantations in the Caribbean (or West Indies). Haiti (Saint-Domingue) saw particularly prolific indigo production, and networks of knowledge exchange were eventually established between these colonies and others in West Africa, especially Senegal.
 <param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
 <param ve-map-marker
        url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg"
