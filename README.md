@@ -50,7 +50,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
 <param ve-map-marker
-       url="https://slaveryimages.org/database/image-result.php?objectid=388"
+       url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg"
        coords="18.952308, -72.218749"
        circle="true">
 
