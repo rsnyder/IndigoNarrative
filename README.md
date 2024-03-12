@@ -51,7 +51,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 <param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
 <param ve-map-marker
        url="https://slaveryimages.org/database/image-result.php?objectid=388"
-       coords=-"72.35583937914052, 19.167846194570814"
+       coords="18.952308, -72.218749"
        circle="true">
 
 ## Image
