@@ -57,7 +57,7 @@ By the 17th century, the British, Spanish, and French established indigo plantat
 ## India Map
 The <span data-mouseover-map-flyto="26.6156, 84.8409, 10">Champaran district of Bihar</span> is where Gandhi began his first efforts of peaceful resistance in India protesting the poor treatment and low pay of indigo workers in 1917.
 <param ve-map
-       center="26.6156, 84.8409"
+       center="26.5833, 84.8333"
        zoom=5
        Title="Champaran"
        prefer-geojson>
@@ -67,7 +67,7 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 10">Champaran district of 
        stroke-width="0">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/3/34/Stamp_of_India_-_2017_-_Colnect_696527_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg"
-       coords="26.6155, 84.8408"
+       coords="26.5833, 84.8333"
        size="400, 200" 
        circle="true">
 
