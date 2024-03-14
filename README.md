@@ -67,7 +67,7 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 10">Champaran district of 
        stroke-width="0">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/3/34/Stamp_of_India_-_2017_-_Colnect_696527_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg"
-       coords="26.6156, 84.8409"
+       coords="26.6155, 84.8408"
        size="400, 200" 
        circle="true">
 
