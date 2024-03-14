@@ -57,7 +57,7 @@ By the 17th century, the British, Spanish, and French established indigo plantat
 ## India Map
 The Champaran district of Bihar is where Gandhi began his first efforts of peaceful resistance in India protesting the poor treatment and low pay of indigo workers.
 <param ve-map
-       center="107.35566785297192, 35.04243480935922"
+       center="26.6156, 84.8409"
        zoom=5
        Title="Champaran"
        prefer-geojson>
