@@ -54,6 +54,8 @@ By the 17th century, the British, Spanish, and French established indigo plantat
        size="727, 464"
        circle="true">
 
+## India Map
+
 ## Image
 This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by <span data-mouseover-image-zoomto="256,267,351,274">Mahatma Gandhi</span> in an effort to receive fair pay for indigo farmers.
 <param ve-image
@@ -61,6 +63,8 @@ This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha 
        description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
        license="CC BY-SA 4.0"
        url="https://upload.wikimedia.org/wikipedia/commons/3/34/Stamp_of_India_-_2017_-_Colnect_696527_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
+
+
 
 ## Multiple viewers
 
