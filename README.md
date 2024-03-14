@@ -55,7 +55,7 @@ By the 17th century, the British, Spanish, and French established indigo plantat
        circle="true">
 
 ## India Map
-The <span data-mouseover-map-flyto="26.6156, 84.8409, 12">Champaran district of Bihar</span> is where Gandhi began his first efforts of peaceful resistance in India protesting the poor treatment and low pay of indigo workers in 1917.
+The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of Bihar</span> is where Gandhi began his first efforts of peaceful resistance in India protesting the poor treatment and low pay of indigo workers in 1917.
 <param ve-map
        center="26.5833, 84.8333"
        zoom=5
