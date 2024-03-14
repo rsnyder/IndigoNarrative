@@ -66,7 +66,7 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of 
        show-labels
        stroke-width="0">
 <param ve-map-marker
-       url="https://upload.wikimedia.org/wikipedia/commons/3/34/Stamp_of_India_-_2017_-_Colnect_696527_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg"
+       url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Gandhiji_and_Sub-Inspector_Qurban_Ali_in_Champaran_%281917%29.jpg"
        coords="26.5833, 84.8333"
        size="400, 200" 
        circle="true">
