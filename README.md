@@ -66,7 +66,7 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of 
        show-labels
        stroke-width="0">
 <param ve-map-marker
-       url="https://upload.wikimedia.org/wikipedia/commons/1/13/Buddhist_Stupa_at_Kesariya_%28wide_angle_view%29_at_Champaran_%28east%29_district_of_Bihar%2C_India_01.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Buddhist_Stupa_at_Kesariya_at_Champaran_%28east%29_district_of_Bihar%2C_India._12.jpg"
        coords="26.5833, 84.8333"
        size="400, 200" 
        circle="true">
