@@ -3,20 +3,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "Name": "Champaran",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "circle"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
-          84.84091877819714,
-          26.61555989131797
+          84.8333201804561,
+          26.583325188289365
         ],
         "type": "Point"
-      },
-      "id": 0
+      }
     }
   ]
 }
