@@ -68,7 +68,7 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Buddhist_Stupa_at_Kesariya_at_Champaran_%28east%29_district_of_Bihar%2C_India._12.jpg"
        coords="26.5833, 84.8333"
-       size="400, 200" 
+       size="400, 200"
        circle="true">
 
 ## Image
@@ -78,9 +78,7 @@ This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha 
        description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
        license="CC BY-SA 4.0"
        url="https://upload.wikimedia.org/wikipedia/commons/3/34/Stamp_of_India_-_2017_-_Colnect_696527_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
-
-
-
+       
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
