@@ -71,6 +71,24 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of 
        size="400, 200"
        circle="true">
 
+## SC Map
+Indigo was a major cash crop in colonial South Carolina, and most of its production was done in the port city of Charleston. Eliza Lucas Pinckney first planted Indigo seed at her <span data-mouseover-map-flyto="32.77737397356162, -80.00694843388722">Wappoo Hall Plantation</span> in 1741. While Eliza preferred Wappoo Hall, the Pinckney family also owned and cultivated indigo at <span data-mouseover-map-flyto="32.846122451245165, -79.8246576292529">Snee Farm in Charleston, which is now the Charles Pinckney National Historic Site.</span>
+<param ve-map
+       center="32.8183693374162, -79.92911720836403"
+       zoom=5
+       Title="Charleston, South Carolina"
+       prefer-geojson>
+<param ve-map-marker
+       title="Eliza Pinckney's Wappoo Plantation"
+       coords="32.77737397356162, -80.00694843388722"
+       circle="true">
+<param ve-map-marker
+       coords="32.84607407568846, -79.82469358452884"
+       title="Charles Pinckney National Historic Site"
+       url="https://commons.wikimedia.org/wiki/File:Charles_Pinckney_National_Historic_Site_(f93f39a5-dab4-47f3-a698-feead1087f84).jpg"
+       size="800, 533">
+
+
 ## Image
 This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by <span data-mouseover-image-zoomto="256,267,351,274">Mahatma Gandhi</span> in an effort to receive fair pay for indigo farmers.
 <param ve-image
