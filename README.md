@@ -88,7 +88,7 @@ Indigo was a major cash crop in colonial South Carolina, and most of its product
        coords="32.777373, -80.006948">
 <param ve-map-marker
        coords="32.846074, -79.824693"
-       url="https://commons.wikimedia.org/wiki/File:Charles_Pinckney_National_Historic_Site_(f93f39a5-dab4-47f3-a698-feead1087f84).jpg"
+       url="https://commons.wikimedia.org/wiki/File:Charles_Pinckney_National_Historic_Site_(f93f39a5-dab4-47f3-a698-feead1087f84).svg"
        size="800, 533"
        circle="true">
 
