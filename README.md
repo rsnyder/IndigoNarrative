@@ -79,7 +79,7 @@ Indigo was a major cash crop in colonial South Carolina, and most of its product
        Title="Charleston, South Carolina"
        prefer-geojson>
 <param ve-map-layer geojson
-       url="https://github.com/IndigoGirlH/IndigoNarrative/blob/main/SC%20geojson"
+       url="https://github.com/IndigoGirlH/IndigoNarrative/main/SCgeo.json"
        show-labels
        show-titles
        stroke-width="0">
