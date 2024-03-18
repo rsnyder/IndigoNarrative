@@ -78,6 +78,11 @@ Indigo was a major cash crop in colonial South Carolina, and most of its product
        zoom="11"
        Title="Charleston, South Carolina"
        prefer-geojson>
+<param ve-map-layer geojson
+       url="https://github.com/IndigoGirlH/IndigoNarrative/blob/main/SC%20geojson"
+       show-labels
+       show-titles
+       stroke-wisth-0>
 <param ve-map-marker
        title="Eliza Pinckney's Wappoo Plantation"
        coords="32.777373, -80.006948">
