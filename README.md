@@ -62,7 +62,7 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of 
        Title="Champaran"
        prefer-geojson>
 <param ve-map-layer geojson
-       url=https://raw.githubusercontent.com/IndigoGirlH/IndigoNarrative/main/IndiaMap.json
+       url="https://raw.githubusercontent.com/IndigoGirlH/IndigoNarrative/main/IndiaMap.json"
        show-labels
        stroke-width="0">
 <param ve-map-marker
