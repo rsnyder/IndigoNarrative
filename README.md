@@ -82,6 +82,7 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of 
        circle="true">
 
 _Nil Darpan_ was first published in Bengali in 1859, and was translated into English by Reverend James Long in 1861.
+
 <param ve-iframe
        src="https://archive.org/details/nildarpanorindig00mitriala/page/n3/mode/2up"
        
