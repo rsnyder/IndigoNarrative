@@ -44,6 +44,8 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
        license="public domain" 
        url="https://www.biodiversitylibrary.org/pageImage/40474136">
 
+## Timeline
+
 ## Map
 
 By the 17th century, the British, Spanish, and French established indigo plantations in the Caribbean (or West Indies). <span data-mouseover-map-flyto="19.084327, -73.076567, 8">Haiti (Saint-Domingue)</span> saw particularly prolific indigo production, and networks of knowledge exchange were eventually established between these colonies and others in West Africa, especially <span data-mouseover-map-flyto="14.593509, -14.521971, 7">Senegal</span>.
