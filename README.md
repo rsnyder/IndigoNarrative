@@ -50,8 +50,8 @@ This timeline demonstrates the evolution of colonial indigo cultivation across t
 <param ve-knightlab-timeline
        source="1Rswjl0FEfisfsg9Mb8gmv0zWzJWwCDc74wSVhYjD_PA"
        timenav-position="bottom"
-       hash-bookmark="false”
-       initial-zoom="1
+       hash-bookmark="false"
+       initial-zoom="1"
        height="750">
 
 ## Map
