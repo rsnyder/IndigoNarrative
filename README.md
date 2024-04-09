@@ -84,7 +84,7 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of 
 _Nil Darpan_ was first published in Bengali in 1859, and was translated into English by Reverend James Long in 1861.
 
 <param ve-iframe
-       src="https://archive.org/details/nildarpanorindig00mitriala/page/n3/mode/2up"
+       src="https://archive.org/details/nildarpanorindig00mitriala/page/n3&output=embed"
        
 ## SC Map
 Indigo was a major cash crop in colonial South Carolina, and most of its production was done in the port city of Charleston. Eliza Lucas Pinckney first planted Indigo seed at her Wappoo Hall Plantation in 1741. While Eliza preferred Wappoo Hall, the Pinckney family also owned and cultivated indigo at <span data-mouseover-map-flyto="32.846122, -79.824657, 11">Snee Farm in Charleston, which is now the Charles Pinckney National Historic Site.</span>
