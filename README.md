@@ -46,7 +46,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
 
 ## Timeline
 
-
+This timeline demonstrates the evolution of colonial indigo cultivation across three continents.
 <param ve-knightlab-timeline
        source="1Rswjl0FEfisfsg9Mb8gmv0zWzJWwCDc74wSVhYjD_PA"
        timenav-position="bottom"
