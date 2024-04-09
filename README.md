@@ -46,12 +46,13 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
 
 ## Timeline
 
+
 <param ve-knightlab-timeline
-source="1Rswjl0FEfisfsg9Mb8gmv0zWzJWwCDc74wSVhYjD_PA"
-timenav-position="bottom"
-hash-bookmark="false”
-initial-zoom="1"
-height="750">
+       source="1Rswjl0FEfisfsg9Mb8gmv0zWzJWwCDc74wSVhYjD_PA"
+       timenav-position="bottom"
+       hash-bookmark="false”
+       initial-zoom=1
+       height="750"
 
 ## Map
 
