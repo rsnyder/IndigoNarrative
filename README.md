@@ -52,7 +52,7 @@ This early modern illustration comes from the _Revue Horticole_. It features an 
        timenav-position="bottom"
        hash-bookmark="false”
        initial-zoom=1
-       height="750"
+       height="750">
 
 ## Map
 
