@@ -23,7 +23,14 @@ Vermeer's Girl With a Pearl Earring features faded indigo in the <span data-mous
        description="the painting."
        license="Public domain">
 
-# Basic usage
+### Timeline
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<param ve-knightlab-timeline
+source="1aancGqzVzVry0wmpCQ6FzzVYLKp2U7DtL-MtetiynUY"
+timenav-position="bottom"
+hash-bookmark="false”
+initial-zoom="1"
+height="750">
 
 ## Sample Image 3/11 (jordan)
 This early modern illustration comes from the _Revue Horticole_. It features an indigo plant and its <span data-mouseover-image-zoomto="506,1726,963,778
