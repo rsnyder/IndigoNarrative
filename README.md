@@ -25,7 +25,7 @@ Vermeer's Girl With a Pearl Earring features faded indigo in the <span data-mous
 
 ### iframe
 <param ve-iframe
-src="https://books.google.com/books?id=wD0YAAAAYAAJ&newbks=0&pg=PA1&output=embed">
+src="https://books.google.com/books/content?id=wD0YAAAAYAAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3t_gPimNHvbsQ1dvAeF5aEYNz_tg&w=1025">
 
 
 ### Timeline
