@@ -16,15 +16,27 @@
 
 # Indigo Plant Narrative
 
-Vermeer's Girl With a Pearl Earring features faded indigo in the <span data-mouseover-image-zoomto="2301,3670,1536,1242">background</span>. We can just keep this image in here This is a sample visual essay demonstrating a few key features of a Visual Essay. 
+### Indigo: Fading into the Background
+Vermeer's Girl With a Pearl Earring features faded indigo in the <span data-mouseover-image-zoomto="2301,3670,1536,1242">background</span>.  ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est labor
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c"
        label="Vermeer's Girl With a Pearl Earring" 
        description="the painting."
        license="Public domain">
 
-### iframe
+### Indigo: True Blue
  ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est labor
+ <param ve-image 
+       manifest="https://www.archive.org/download/mobot31753003431688/page/n124_w273"
+       label="_Indigofera Tinctoria L._" 
+       description="Illustration from C.J. Trew's _Plantae Selectae_ (1750–1773)"
+       license="Public domain">
+
+### Ancient & Indigenous Uses of Indigo
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+ ### iframe example
 <param ve-iframe
 src="https://books.google.com/books?id=wD0YAAAAYAAJ&newbks=0&pg=PA1&output=embed">
 
