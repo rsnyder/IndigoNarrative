@@ -91,7 +91,7 @@ While indigo often fades as a dye or a pigment, the plant itself is known to sta
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="https://upload.wikimedia.org/wikipedia/commons/5/56/Indigo_hands.jpg">
 
 ###SC Cont.
 While Dash’s Twentieth century film depicts the beginning of slavery’s afterlife and reclaim indigo as a symbol of Black resilience, the plant's history in the Southern United States is not so beautiful. Though the film takes place in Georgia, indigo was the main cash crop of the state’s neighbor, South Carolina. One record from 1796 states of indigo that, “Of this valuable commodity, one million three thousand pounds weight have been shipped from the city of Charleston alone in one year…The uniform of the national troops has been heretofore of blue cloth, as also of the militia in general. Their clergy also by their customs wear this color, and it is generally liked among the most frugal and expensive people.” The popularity and success of the state’s indigo industry in the Eighteenth Century is largely attributed to Eliza Lucas Pinckney, who was one of the first European settlers in the state to successfully cultivate indigo and process its dye. With the help of an African dye maker that her father hired to help her, a 16-year-old Pinckney first planted indigo in South Carolina in 1744. With the help of enslaved laborers, Pinckney continued to experiment with the plant, and its subsequent popularity as a cash crop contributed to South Carolina’s status as the wealthiest of the American colonies throughout the Eighteenth century. [Finish paragraph with discussion of Quash]
@@ -100,7 +100,7 @@ While Dash’s Twentieth century film depicts the beginning of slavery’s after
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="https://commons.wikimedia.org/wiki/File:Eliza_Izard_Pinckney_-_Edward_Greene_Malbone_(page_221_crop).jpg">
 
 ###Influence on Native Americans
 The predominance of indigo and other cash crops also changed the environmental landscape of the United States irreversibly, displacing Native American tribes as well. One account from 1793 states: “About fifteen years ago I visited this place, at which time there were no settlements of white people, but all appeared wild and savage; yet in the uncultivated state it possessed an almost inexpressible air of grandeur, which was now entirely changed…but that venerable grove is now no more. All has been cleared away and planted with indigo, corn, and cotton, but since deserted…it appeared like a desert to a great extent.”
@@ -109,7 +109,7 @@ The predominance of indigo and other cash crops also changed the environmental l
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="https://upload.wikimedia.org/wikipedia/commons/8/80/Newberry_County%2C_South_Carolina._A_pine_plantation_on_submarginal_farm_lands_on_the_Enoree_District_._._._-_NARA_-_522782.tif">
 
 ###19th c. India
 Decades later in 1860, Lieutenant Governor of South Carolina Plowden Weston stated that of all the state’s youths “not one… remembers the cultivation of indigo.” Indeed, following the American Revolution in 1776, England turned to India for its indigo supply. For Bengal playwright Dinabandhu Mitra, the blue stains on the hands of indigo farmers were mirrored by the “stain of selfishness” that marked the British indigo planters. In 1860, Mitra published Nil Darpan (The Indigo Planting Mirror), a short drama that highlights the exploitation of indigo ryots in Bengal under British Company Rule. 
