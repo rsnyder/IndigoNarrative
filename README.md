@@ -67,8 +67,20 @@ In his Natural History of Jamaica, Irish naturalist Sir Hans Sloane describes th
 ###Caribbean and South America
 While some made great profits from the popularity of indigo, some profiteers found that “golden hopes which speculations like these have raised in the minds of thousands, have vanished on actual experiment, like visions of the morning.” Jamaica, for example “once furnished a large supply,” but parliament imposed a tax on indigo and many were “obliged to drop it,” as “several industrious families,” were ruined. When this occurred, French islands such as Hispaniola became the main source of supply throughout Great Britain and Europe. The extreme initial opulence of the plantation owners in Jamaica is often remarked upon, however, alongside stories of “the mortality of the negroes from the vapour of the fermented liquor (an alarming circumstance, that, as I am informed, both by the French and English planters, constantly attends the process).” Conditions were inhumane on many levels, and one account of a dinner party on the Governor's indigo plantation in Surinam states “what embittered the pleasure was, the inhuman disposition of Mr. Goetzee’s lady, who flogged her negro slaves for every little trifle.” One who did not clean the glasses to her satisfaction shot himself that very night before he could be punished, and the author “left the estate Catwyk, determined never more to return to it.”
 
+<param ve-image 
+       label="France versus England" 
+       description="Napolean's military uniforms were also dyed with indigo."
+       license="Public domain"
+       url="https://www.archive.org/download/artdelindigotie00Beau/page/n134_w350">
+
 ###Africa and the Caribbean
 Indigo cultivation in the West Indies and West Africa may serve as a case study for knowledge networks and exchange among exploited groups. The colonial Caribbean used enslaved labor in order to produce and process indigo, while West African groups mostly relied on indigenous knowledge from as long ago as the 11th century to achieve the same results. In spite of the differences between coercive and voluntary labor, both regions were similar in that they welcomed the exchange of knowledge in order to maximize their product. For example, enslaved people from the Caribbean were documented traveling to Senegal in order to provide their insights on indigo production. Indigo production was different in Senegal from the process Sloane writes above. Instead, the Wolof pounded indigo leaves into a paste, rolled the paste into balls, and then fermented it in a dye vat. The dye vat used for the fermentation process would have been the same one that was used for dyeing. By comparing these two methods of indigo production, the French who sought to establish an indigo enterprise in Senegal could determine which would be most successful. They did not end up using Senegal to further their own indigo endeavors, but the knowledge exchange between enslaved Caribbean indigo workers and the Wolof speaks to the fact that networks of knowledge among exploited groups existed, even in a period of extreme surveillance and control by European powers.
+
+<param ve-image 
+       label="France versus England" 
+       description="Napolean's military uniforms were also dyed with indigo."
+       license="Public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Narrative_of_an_expedition_to_Surinam%2C_cover_1796.png/640px-Narrative_of_an_expedition_to_Surinam%2C_cover_1796.png">
 
 ###18th c. SC
 
