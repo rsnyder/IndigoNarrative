@@ -198,7 +198,7 @@ As mentioned, indigo requires attentive care to create a successful dye, and obj
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Salvia_%27Indigo_Spires%27_with_Chiba_Floral_Museum.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/9/99/Indigofera_jucunda00.jpg">
 
  ### iframe example
 <param ve-iframe
