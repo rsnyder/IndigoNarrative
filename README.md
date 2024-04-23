@@ -80,7 +80,7 @@ Indigo cultivation in the West Indies and West Africa may serve as a case study 
        label="France versus England" 
        description="Napolean's military uniforms were also dyed with indigo."
        license="Public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Narrative_of_an_expedition_to_Surinam%2C_cover_1796.png/640px-Narrative_of_an_expedition_to_Surinam%2C_cover_1796.png">
+       url="https://upload.wikimedia.org/wikipedia/commons/8/82/Narrative_of_an_expedition_to_Surinam%2C_cover_1796.png">
 
 ###18th c. SC
 
