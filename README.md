@@ -153,8 +153,6 @@ Though the Champaran Satyagraha was an important step both for India’s indepen
        license="Public domain"
        url="     https://upload.wikimedia.org/wikipedia/commons/8/80/Clipping_of_Denim_Pant.JPG">
 
-Alternate image?:        https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_MLB_auf_Baumwolle_-_Indigo_MLB_on_Cotton_-_DPLA_-_9e72a25c93e03a80f571c7c7d10d845c_%28page_13%29.jpg
-
 ###SC Today
 Despite the now global use of harmful chemical dyes, natural indigo dye is starting to fade back into South Carolina’s Lowcountry.With England’s turn to India for indigo and the rising popularity of synthetic dyes, indigo production largely disappeared from the state in the Nineteenth century. However, farmers and textile artists there have recently returned to the centuries-old methods of processing indigo dye in efforts to move away from the environmentally harmful petroleum-based dyes. On a half-acre plot in Adams Run, S.C., farmer and entrepreneur Sheena Myers continues her family's tradition of harvesting indigo. For Myers, the plant’s revival provides both an eco-friendly alternative to chemical dyes and a way to get local communities “back to the land.” While farmers like Myers focus on the ethical harvesting of the indigo plant, artists like Arianne King Comer are thinking about how “blue gold” has the power to communicate heritage and healing through batik.
 
