@@ -198,11 +198,6 @@ As mentioned, indigo requires attentive care to create a successful dye, and obj
        license="Public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/9/99/Indigofera_jucunda00.jpg">
 
- ### iframe example
-<param ve-iframe
-src="https://books.google.com/books?id=wD0YAAAAYAAJ&newbks=0&pg=PA1&output=embed">
-
-
 ### Timeline
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-knightlab-timeline
@@ -267,11 +262,6 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of 
        coords="26.5833, 84.8333"
        size="400, 200"
        circle="true">
-
-_Nil Darpan_ was first published in Bengali in 1859, and was translated into English by Reverend James Long in 1861.
-
-<param ve-iframe
-       src="https://archive.org/details/nildarpanorindig00mitriala/page/n3/mode/2up"
        
 ## SC Map
 Indigo was a major cash crop in colonial South Carolina, and most of its production was done in the port city of Charleston. Eliza Lucas Pinckney first planted Indigo seed at her Wappoo Hall Plantation in 1741. While Eliza preferred Wappoo Hall, the Pinckney family also owned and cultivated indigo at <span data-mouseover-map-flyto="32.846122, -79.824657, 11">Snee Farm in Charleston, which is now the Charles Pinckney National Historic Site.</span>
@@ -291,13 +281,6 @@ Indigo was a major cash crop in colonial South Carolina, and most of its product
        size="800, 533"
        circle="true">
        
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # References
 
