@@ -151,7 +151,7 @@ Though the Champaran Satyagraha was an important step both for India’s indepen
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_MLB_auf_Baumwolle_-_Indigo_MLB_on_Cotton_-_DPLA_-_9e72a25c93e03a80f571c7c7d10d845c_%28page_13%29.jpg">
 
 ###Environmental Impact
 While just 17 production sites are responsible for most of the world’s synthetic indigo dye, only one falls under any type of wastewater restrictions. Like most environmental issues, low-income communities are disproportionately affected by the harmful effects of synthetic indigo production. About 87 percent of synthetic production today is “located in low-wage and lower-income countries,” which means workers and local inhabitants are exposed to toxic environments, and workers are compensated for little to no pay. Although it would be hoped that poor treatment of people in the name of indigo profits would be a thing of the past, it seems that it will continue indefinitely until concrete changes are made.
