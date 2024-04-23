@@ -112,22 +112,10 @@ The predominance of indigo and other cash crops also changed the environmental l
        url="https://upload.wikimedia.org/wikipedia/commons/8/80/Newberry_County%2C_South_Carolina._A_pine_plantation_on_submarginal_farm_lands_on_the_Enoree_District_._._._-_NARA_-_522782.tif">
 
 ###19th c. India
-Decades later in 1860, Lieutenant Governor of South Carolina Plowden Weston stated that of all the state’s youths “not one… remembers the cultivation of indigo.” Indeed, following the American Revolution in 1776, England turned to India for its indigo supply. For Bengal playwright Dinabandhu Mitra, the blue stains on the hands of indigo farmers were mirrored by the “stain of selfishness” that marked the British indigo planters. In 1860, Mitra published Nil Darpan (The Indigo Planting Mirror), a short drama that highlights the exploitation of indigo ryots in Bengal under British Company Rule. 
+Decades later in 1860, Lieutenant Governor of South Carolina Plowden Weston stated that of all the state’s youths “not one… remembers the cultivation of indigo.” Indeed, following the American Revolution in 1776, England turned to India for its indigo supply. For Bengal playwright Dinabandhu Mitra, the blue stains on the hands of indigo farmers were mirrored by the “stain of selfishness” that marked the British indigo planters. In 1860, Mitra published Nil Darpan (The Indigo Planting Mirror), a short drama that highlights the exploitation of indigo ryots in Bengal under British Company Rule. The play depicts the ways in which English planters coerced farmers into growing indigo through exploitative means—farmers were often forced to “take out loans and sell the crop to planters at fixed (low) prices, forcing them into a cycle of debt and economic dependence that was often enforced with violence”—ultimately leaving the farmer little recourse to improve their conditions. In the drama’s first act, character Ray Churn vocalizes the ryots’ concerns when he cries out, “What shall we eat now, and what shall our children take? This large family may die without food . . .What has the Indigo of this white man done?” Throughout the drama, the violence and oppression committed by British planters “[results] in either the madness of death of almost every one of the principal Indian characters,” and “Not only do the planters ruin the ryots, but they also corrupt the judicial officers of the government.” Nil Darpan was the “first play to be staged commercially at the National Theatre in Calcutta,” and became one of the most popular Indian dramas in the Nineteenth and Twentieth centuries.
 
-<param ve-image 
-       label="Early Modern Indigofera Dosua" 
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
-
-###India 2
-The play depicts the ways in which English planters coerced farmers into growing indigo through exploitative means—farmers were often forced to “take out loans and sell the crop to planters at fixed (low) prices, forcing them into a cycle of debt and economic dependence that was often enforced with violence”—ultimately leaving the farmer little recourse to improve their conditions. In the drama’s first act, character Ray Churn vocalizes the ryots’ concerns when he cries out, “What shall we eat now, and what shall our children take? This large family may die without food . . .What has the Indigo of this white man done?” Throughout the drama, the violence and oppression committed by British planters “[results] in either the madness of death of almost every one of the principal Indian characters,” and “Not only do the planters ruin the ryots, but they also corrupt the judicial officers of the government.” Nil Darpan was the “first play to be staged commercially at the National Theatre in Calcutta,” and became one of the most popular Indian dramas in the Nineteenth and Twentieth centuries.
-
-<param ve-image 
-       label="Early Modern Indigofera Dosua" 
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+<param ve-iframe
+src="https://books.google.com/books?id=wD0YAAAAYAAJ&newbks=0&pg=PA1&output=embed">
 
 ###Blue Mutiny
 In 1861, the play was translated into English by Michael Madhusudan Dutt, then published by missionary Reverend James Long, who was arrested for sedition despite having “omitted,” “expunged [and] softened” a “great deal” of the play. In a statement following his arrest, Long writes that he published the translation as a warning to the British of the “volcano . . . forming beneath [the ryots] feet.” Indeed, the volcano forming beneath the feet of the ryots erupted in 1859. As Mitra was writing Nil Darpan from 1858–1859, he based the drama on Bengal’s Indigo Revolt, also known as the Blue Mutiny. The revolt began in the autumn of 1859 when ryots refused to sow indigo for their English planters. The years leading up to the revolt had seen the beginnings of a national sentiment in Calcutta stemming from “a political struggle against the British mercantile community,” as well as “the rise of new social classes in rural Bengal.” With a newly heightened political consciousness, the Bengali farmers’ collective action continued for more than a year, and while it is generally known as a peaceful revolt, some ryot groups deployed methods of militant violence. The movement led by the Biswases of Chaugacha in the Jessore district, for example, was “violent and armed . . . weaken[ing] the theory . . . of peasants as lachrymose and timid.”
@@ -136,7 +124,7 @@ In 1861, the play was translated into English by Michael Madhusudan Dutt, then p
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/20-Group-of_Indigo-beaters.jpg">
 
 ###Commission Report
 Long’s English edition ensured that the Nil Darpan became well-known even within the highest ranks of British politics, adding a negative hue to the public’s perception of British indigo planters once the details came to light. Following the Indigo Revolt, the English established an investigation into the injustices being perpetrated on indigo farms in India, leading to the 1861 Report of the Indigo Commission. Within the report, EWL Towers, the magistrate of Faridpur, stated that “not a chest of indigo reached England without being stained with human blood.” The revolts, the play, and the subsequent Indigo Commission did result in positive changes for workers in Bengal, but other parts of India remained exploited. [what did the commission result in]
