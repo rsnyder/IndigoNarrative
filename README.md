@@ -151,7 +151,9 @@ Though the Champaran Satyagraha was an important step both for India’s indepen
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_MLB_auf_Baumwolle_-_Indigo_MLB_on_Cotton_-_DPLA_-_9e72a25c93e03a80f571c7c7d10d845c_%28page_13%29.jpg">
+       url="     https://upload.wikimedia.org/wikipedia/commons/8/80/Clipping_of_Denim_Pant.JPG">
+
+Alternate image?:        https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_MLB_auf_Baumwolle_-_Indigo_MLB_on_Cotton_-_DPLA_-_9e72a25c93e03a80f571c7c7d10d845c_%28page_13%29.jpg
 
 ###SC Today
 Despite the now global use of harmful chemical dyes, natural indigo dye is starting to fade back into South Carolina’s Lowcountry.With England’s turn to India for indigo and the rising popularity of synthetic dyes, indigo production largely disappeared from the state in the Nineteenth century. However, farmers and textile artists there have recently returned to the centuries-old methods of processing indigo dye in efforts to move away from the environmentally harmful petroleum-based dyes. On a half-acre plot in Adams Run, S.C., farmer and entrepreneur Sheena Myers continues her family's tradition of harvesting indigo. For Myers, the plant’s revival provides both an eco-friendly alternative to chemical dyes and a way to get local communities “back to the land.” While farmers like Myers focus on the ethical harvesting of the indigo plant, artists like Arianne King Comer are thinking about how “blue gold” has the power to communicate heritage and healing through batik.
@@ -169,7 +171,7 @@ Indigo’s potential to build community and restore connection to the land is al
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="">
 
 ###NYBG 
 In 2022, the New York Botanical Garden planted the African-American Garden at its Edible Academy. This garden intended to highlight plants that were and continue to remain integral to the African-American experience. Two varieties of indigo, one of which comes from Ossabaw Island in Georgia, are included in the garden in a plot entitled “Making & Mending,” which points to the usefulness of certain plants including indigo. In 2023, the African-American Garden opened an exhibition with the subtitle “The Caribbean Experience.” Indigo was once again included in this exhibition, this time in a plot entitled “Creativity/Creatividad/Kreyativite,” employing multiple translations to highlight the linguistic diversity of the Caribbean. The link between creativity and indigo once again centers the artistic aspects of indigo through the dyeing of fabrics.
@@ -178,7 +180,7 @@ In 2022, the New York Botanical Garden planted the African-American Garden at it
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="">
 
 ###SOMArts 
 In 2022, the SOMArts Cultural Center in San Francisco debuted an exhibition called “The Indigo Project.” This exhibition, which included multidisciplinary works such as textiles, photographs, and dolls, aimed to highlight the connection between Black culture and the production of indigo-based art. Created by priestess Bushmama Africa and artist Isha Rosemond, the exhibition was meant to point to, in Africa’s words, “Africa before colonization,” in which “all the dynasties wore indigo and they had their own print that signified each dynasty.” Certainly, the location of the exhibition in America and its emphasis on precolonial Africa makes a connection between the two inevitable, and reminds viewers of indigo’s equal significance to enslavement in America.
@@ -187,7 +189,7 @@ In 2022, the SOMArts Cultural Center in San Francisco debuted an exhibition call
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="">
 
 ###Conclusion
 As mentioned, indigo requires attentive care to create a successful dye, and objects coated in it must meet the air before the remarkable blue slowly begins to appear. Similarly, the history of indigo covers a wide geographic and cultural landscape, forming a sweeping narrative that can only unfold through careful attention. Only once the full story is exposed can the true beauty of indigo be revealed, a loveliness that surpasses the monetary value placed upon it by colonialism, reclaiming stories of indigenous tradition, peaceful revolution, and art. Though the history of indigo may have faded into the background over time, just as it did in Vermeer’s Girl with a Pearl Earring, it still has important lessons to teach us. On the one hand, it is a grim warning of the destructive nature of greed. On the other hand, it shows the beauty that people can create with what nature has given us if these resources are used respectfully. Though it has been ill-used, the gorgeous blue of the indigo plant remains intact.
@@ -196,7 +198,7 @@ As mentioned, indigo requires attentive care to create a successful dye, and obj
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Salvia_%27Indigo_Spires%27_with_Chiba_Floral_Museum.jpg">
 
  ### iframe example
 <param ve-iframe
