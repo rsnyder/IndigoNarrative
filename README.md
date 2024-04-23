@@ -124,7 +124,7 @@ In 1861, the play was translated into English by Michael Madhusudan Dutt, then p
        label="Early Modern Indigofera Dosua"
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://commons.wikimedia.org/wiki/File:06-Indigo-factory-(Loading-the-Vats).jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/8/83/Indigo_Manufacture_in_India%2C_1887.jpg">
 
 ###Commission Report
 Long’s English edition ensured that the Nil Darpan became well-known even within the highest ranks of British politics, adding a negative hue to the public’s perception of British indigo planters once the details came to light. Following the Indigo Revolt, the English established an investigation into the injustices being perpetrated on indigo farms in India, leading to the 1861 Report of the Indigo Commission. Within the report, EWL Towers, the magistrate of Faridpur, stated that “not a chest of indigo reached England without being stained with human blood.” The revolts, the play, and the subsequent Indigo Commission did result in positive changes for workers in Bengal, but other parts of India remained exploited. [what did the commission result in]
