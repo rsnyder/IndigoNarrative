@@ -29,7 +29,7 @@ Indigo has a fading problem. A rich pigment used in iconic works such as Johanne
 More than 750 species belong to the Indigofera L. genus, and its native range spans Africa, Asia, the Southwest Pacific, Central and Southern U.S., and the tropics. The genus belongs to the bean family, and as a legume, Indigo “can fix nitrogen in the soil, and therefore, it’s used as a rotation crop in agriculture to improve soil quality.” Perhaps its most well known of its species is Indigofera Tinctoria, otherwise known as “true indigo.” While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive round leaves. Once these leaves are harvested, the blue dye is made through a process of fermentation [maybe go more in depth on the actual process here, describe the vats]. Leaves are “soaked in water and churned until they release a navy blue froth,” filtered for impurities and turned into a powder or paste. In most cases, this powder or paste is then used to create pigment for paint and to dye clothing and textiles. Despite its proclivity toward fading, the widespread popularity of indigo’s natural dye has lasted for millennia.
 
  <param ve-image
-       manifest="https://www.archive.org/download/mobot31753003431688/page/n124_w273"
+       manifest="https://www.biodiversitylibrary.org/pageImage/54768315"
        label="_Indigofera Tinctoria L._"
        description="Illustration from C.J. Trew's _Plantae Selectae_ (1750–1773)"
        license="Public domain">
