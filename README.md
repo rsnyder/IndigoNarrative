@@ -57,6 +57,13 @@ Though indigo had a rich history in the Indus Valley, the initial reception in E
 ###Caribbean
 In his Natural History of Jamaica, Irish naturalist Sir Hans Sloane describes the way in which indigo is processed in the Caribbean: “Some of the seeds…are put into holes at foot’s distance…[it is] ready to cut in 3 months…They mix it with water, and after fermentation, let it out of the trempoire to the batterie, where ‘tis beat till it granulates…” It is then mixed with more water and placed in sacks with oil beaten into it. Sloane notes later that “Some negroes and French have been kill’d by its ill savour,” drawing attention to the potential dangers of the plant even to those who are knowledgeable about it. The months-long, intensive labor process that constitutes the production of Caribbean indigo was carried out by enslaved workers, who were forced to fulfill the quota of indigo production for various European empires (specifically France and Britain in the Caribbean). The French-named trempoire and batterie included in Sloane’s text are sophisticated steepers and presses devised by colonial powers for the purpose of maximizing productivity.
 
+<param ve-image 
+       label="France versus England" 
+       description="Napolean's military uniforms were also dyed with indigo."
+       license="Public domain"
+       url="https://www.archive.org/download/artdelindigotie00Beau/page/n134_w350">
+
+
 ###Caribbean and South America
 While some made great profits from the popularity of indigo, some profiteers found that “golden hopes which speculations like these have raised in the minds of thousands, have vanished on actual experiment, like visions of the morning.” Jamaica, for example “once furnished a large supply,” but parliament imposed a tax on indigo and many were “obliged to drop it,” as “several industrious families,” were ruined. When this occurred, French islands such as Hispaniola became the main source of supply throughout Great Britain and Europe. The extreme initial opulence of the plantation owners in Jamaica is often remarked upon, however, alongside stories of “the mortality of the negroes from the vapour of the fermented liquor (an alarming circumstance, that, as I am informed, both by the French and English planters, constantly attends the process).” Conditions were inhumane on many levels, and one account of a dinner party on the Governor's indigo plantation in Surinam states “what embittered the pleasure was, the inhuman disposition of Mr. Goetzee’s lady, who flogged her negro slaves for every little trifle.” One who did not clean the glasses to her satisfaction shot himself that very night before he could be punished, and the author “left the estate Catwyk, determined never more to return to it.”
 
