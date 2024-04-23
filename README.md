@@ -19,9 +19,9 @@
 ### Indigo: Fading into the Background
 Indigo has a fading problem. A rich pigment used in iconic works such as Johannes Vermeer’s Girl with a Pearl Earring (c. 1665), the indigo background of the painting <span data-mouseover-image-zoomto="2301,3670,1536,1242">background</span> appears secondary to both the blue of the subject’s turban and the striking expression on her face. Thanks to the passage of four centuries, this background appears more black than indigo, rendering its significance hardly noticeable to a modern audience more fixated on matters such as the identity of the subject. The pigment’s literal fading points to a similar fading of the context in which indigo was obtained and used — for the purposes of this painting, it was exported from the Americas to the Netherlands, and therefore was most likely produced using enslaved labor.[^ref1] This is one of the many examples of indigo’s inextricable linkage with a dark colonial past. The indigo plant certainly carries a diverse history often associated with colonialism and the exploitation of labor. When paid greater attention, however, this history reveals overlooked art forms and archives that contribute to both a reframing and reclaiming of knowledge that reaches beyond its violent past.
 
-<param ve-image 
+<param ve-image
        manifest="https://www.biodiversitylibrary.org/pageImage/54768315"
-       label="Vermeer's Girl With a Pearl Earring" 
+       label="Vermeer's Girl With a Pearl Earring"
        description="the painting."
        license="Public domain">
 
