@@ -1,4 +1,4 @@
-<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+<a href="https://www.juncture-digital.org"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg"></a>
 
 <param ve-config 
        title="Indigo Plant Narrative"
