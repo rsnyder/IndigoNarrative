@@ -4,7 +4,7 @@
        title="Indigo Plant Narrative"
        author="Jordan, Hayley, & Gianna"
        banner="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg" 
-       layout="horizontal">
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
