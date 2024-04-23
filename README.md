@@ -124,7 +124,7 @@ In 1861, the play was translated into English by Michael Madhusudan Dutt, then p
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/20-Group-of_Indigo-beaters.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/8/83/Indigo_Manufacture_in_India%2C_1887.jpg">
 
 ###Commission Report
 Long’s English edition ensured that the Nil Darpan became well-known even within the highest ranks of British politics, adding a negative hue to the public’s perception of British indigo planters once the details came to light. Following the Indigo Revolt, the English established an investigation into the injustices being perpetrated on indigo farms in India, leading to the 1861 Report of the Indigo Commission. Within the report, EWL Towers, the magistrate of Faridpur, stated that “not a chest of indigo reached England without being stained with human blood.” The revolts, the play, and the subsequent Indigo Commission did result in positive changes for workers in Bengal, but other parts of India remained exploited. [what did the commission result in]
@@ -133,16 +133,16 @@ Long’s English edition ensured that the Nil Darpan became well-known even with
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/20-Group-of_Indigo-beaters.jpg">
 
 ###Gandhi
-Though synthetic indigo dyes took hold in the late 19th century, British planters continued to exploit the labor of indigo farmers in India well into the 20th century. As such, indigo became an important factor in India’s independence movement. The oppression and exploitation of the indigo farmers in Champaran inspired Mahatma Gandhi to pursue his ideals of peaceful resistance to British colonial rule, and as such the Champaran Satyagraha became “the first laboratory of experiment…for his political ideas.” One official Enquiry Committee into the working conditions of indigo farmers at this time stated that “‘the oppression of the indigo factory had on one occasion driven some 200 cultivators to Nepal wherefrom they never returned.’ Yet so great was the influence of the British planters that the Government practically did nothing to check these oppressions.” Gandhi was asked to see the plight of indigo farmers for himself, and he agreed to visit Motihari on April 15, 1917. There he was served notice of criminal procedures being enacted against him, as the District Magistrate of Champaran asked him to leave immediately. Gandhi replied, “I feel it to be my duty to say that I am unable to leave the district, but if it so pleases the authorities I shall submit to the order by suffering the penalty of disobedience.” Gandhi’s peaceful mission meant he was allowed to stay, however, and take an account of all the mistreatments that were occurring. He wrote to the Government of Bihar with thousands of accounts, and they appointed an enquiry committee, which made “drastic recommendations in its report to improve the state of affairs in the district,” which were then mostly implemented by the government. Eventually, due to the unfavorable atmosphere for indigo planters, partly influenced by the popularization of synthetic indigo dye, “all the factories which had once manufactured indigo were sold away in a few years.”  
+Though synthetic indigo dyes took hold in the late 19th century, British planters continued to exploit the labor of indigo farmers in India well into the 20th century. As such, indigo became an important factor in India’s independence movement. The oppression and exploitation of the indigo farmers in Champaran inspired <span data-mouseover-image-zoomto="256,267,351,274">Mahatma Gandhi</span> to pursue his ideals of peaceful resistance to British colonial rule, and as such the Champaran Satyagraha became “the first laboratory of experiment…for his political ideas.” One official Enquiry Committee into the working conditions of indigo farmers at this time stated that “‘the oppression of the indigo factory had on one occasion driven some 200 cultivators to Nepal wherefrom they never returned.’ Yet so great was the influence of the British planters that the Government practically did nothing to check these oppressions.” Gandhi was asked to see the plight of indigo farmers for himself, and he agreed to visit Motihari on April 15, 1917. There he was served notice of criminal procedures being enacted against him, as the District Magistrate of Champaran asked him to leave immediately. Gandhi replied, “I feel it to be my duty to say that I am unable to leave the district, but if it so pleases the authorities I shall submit to the order by suffering the penalty of disobedience.” Gandhi’s peaceful mission meant he was allowed to stay, however, and take an account of all the mistreatments that were occurring. He wrote to the Government of Bihar with thousands of accounts, and they appointed an enquiry committee, which made “drastic recommendations in its report to improve the state of affairs in the district,” which were then mostly implemented by the government. Eventually, due to the unfavorable atmosphere for indigo planters, partly influenced by the popularization of synthetic indigo dye, “all the factories which had once manufactured indigo were sold away in a few years.”  
 
-<param ve-image 
-       label="Early Modern Indigofera Dosua" 
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+<param ve-image
+       label="Commemorative Stamp"
+       description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
+       license="CC BY-SA 4.0"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/34/Stamp_of_India_-_2017_-_Colnect_696527_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
 
 ###Synthetic Dyes
 Though the Champaran Satyagraha was an important step both for India’s independence and a more ethical indigo farming industry, health and labor issues for factory workers continue today with the creation of synthetic indigo dye. The enduring demand for indigo in the textile industry has placed synthetic indigo production on a large-scale industrial level: every year, “around 80,000 tonnes of indigo are chemically produced . . . with the use of non-renewable petrochemicals and the . . . generation of toxic compounds.” Moreover, at least 400 tons of aniline (a toxic carcinogen) are released each year from synthetic indigo production. Just one third of the compound loss “remains on the denim fabric distributed as commercial products,” while the remaining two thirds “is divided between wastewater, air, and plant workers.” This type of large-scale chemical production creates additional issues with disposal, and because wastewater treatments are expensive, “many facilities dump the spent dyestuff directly into rivers, contributing to environmental pollution.”
@@ -299,15 +299,6 @@ Indigo was a major cash crop in colonial South Carolina, and most of its product
        url="https://upload.wikimedia.org/wikipedia/commons/1/11/Charles_Pinckney_National_Historic_Site_%28de0d374d-090d-46eb-b83a-a106effa97c4%29.jpg"
        size="800, 533"
        circle="true">
-
-
-## Image
-This is a commemorative stamp of the Champaran Satyagraha, the first satyagraha movement led by <span data-mouseover-image-zoomto="256,267,351,274">Mahatma Gandhi</span> in an effort to receive fair pay for indigo farmers.
-<param ve-image
-       label="Commemorative Stamp"
-       description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
-       license="CC BY-SA 4.0"
-       url="https://upload.wikimedia.org/wikipedia/commons/3/34/Stamp_of_India_-_2017_-_Colnect_696527_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
        
 ## Multiple viewers
 
