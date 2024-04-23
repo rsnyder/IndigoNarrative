@@ -74,13 +74,14 @@ While some made great profits from the popularity of indigo, some profiteers fou
        url="https://www.archive.org/download/artdelindigotie00Beau/page/n134_w350">
 
 ###Africa and the Caribbean
-Indigo cultivation in the West Indies and West Africa may serve as a case study for knowledge networks and exchange among exploited groups. The colonial Caribbean used enslaved labor in order to produce and process indigo, while West African groups mostly relied on indigenous knowledge from as long ago as the 11th century to achieve the same results. In spite of the differences between coercive and voluntary labor, both regions were similar in that they welcomed the exchange of knowledge in order to maximize their product. For example, enslaved people from the Caribbean were documented traveling to Senegal in order to provide their insights on indigo production. Indigo production was different in Senegal from the process Sloane writes above. Instead, the Wolof pounded indigo leaves into a paste, rolled the paste into balls, and then fermented it in a dye vat. The dye vat used for the fermentation process would have been the same one that was used for dyeing. By comparing these two methods of indigo production, the French who sought to establish an indigo enterprise in Senegal could determine which would be most successful. They did not end up using Senegal to further their own indigo endeavors, but the knowledge exchange between enslaved Caribbean indigo workers and the Wolof speaks to the fact that networks of knowledge among exploited groups existed, even in a period of extreme surveillance and control by European powers.
+Indigo cultivation in the <span data-mouseover-map-flyto="19.084327, -73.076567, 8">West Indes</span> and <span data-mouseover-map-flyto="14.593509, -14.521971, 7">West Africa</span>. may serve as a case study for knowledge networks and exchange among exploited groups. The colonial Caribbean used enslaved labor in order to produce and process indigo, while West African groups mostly relied on indigenous knowledge from as long ago as the 11th century to achieve the same results. In spite of the differences between coercive and voluntary labor, both regions were similar in that they welcomed the exchange of knowledge in order to maximize their product. For example, enslaved people from the Caribbean were documented traveling to Senegal in order to provide their insights on indigo production. Indigo production was different in Senegal from the process Sloane writes above. Instead, the Wolof pounded indigo leaves into a paste, rolled the paste into balls, and then fermented it in a dye vat. The dye vat used for the fermentation process would have been the same one that was used for dyeing. By comparing these two methods of indigo production, the French who sought to establish an indigo enterprise in Senegal could determine which would be most successful. They did not end up using Senegal to further their own indigo endeavors, but the knowledge exchange between enslaved Caribbean indigo workers and the Wolof speaks to the fact that networks of knowledge among exploited groups existed, even in a period of extreme surveillance and control by European powers.
 
-<param ve-image 
-       label="France versus England" 
-       description="Napolean's military uniforms were also dyed with indigo."
-       license="Public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/82/Narrative_of_an_expedition_to_Surinam%2C_cover_1796.png">
+<param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
+<param ve-map-marker
+       url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg"
+       coords="19.057147, -72.527066"
+       size="727, 464"
+       circle="true">
 
 ###18th c. SC
 
