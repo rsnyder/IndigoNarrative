@@ -18,11 +18,11 @@ Indigo has a fading problem. A rich pigment used in iconic works such as Johanne
 
 More than 750 species belong to the Indigofera L. genus, and its native range spans Africa, Asia, the Southwest Pacific, Central and Southern U.S., and the tropics. The genus belongs to the bean family, and as a legume, Indigo “can fix nitrogen in the soil, and therefore, it’s used as a rotation crop in agriculture to improve soil quality.” Perhaps its most well known of its species is _Indigofera tinctoria_, otherwise known as “true indigo.” While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive round leaves. Once these leaves are harvested, the blue dye is made through a process of fermentation [maybe go more in depth on the actual process here, describe the vats]. Leaves are “soaked in water and churned until they release a navy blue froth,” filtered for impurities and turned into a powder or paste. In most cases, this powder or paste is then used to create pigment for paint and to dye clothing and textiles. Despite its proclivity toward fading, the widespread popularity of indigo’s natural dye has lasted for millennia.
 
-<param ve-image
-       manifest="https://www.biodiversitylibrary.org/pageImage/54768315"
-       label="Vermeer's Girl With a Pearl Earring"
-       description="the painting."
-       license="Public domain">
+<param ve-image 
+       label="Early Modern Indigofera Dosua" 
+       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
+       license="Public domain"
+       url="https://biodiversitylibrary.org/pageImage/54768315">
 
 ### Ancient & Indigenous Uses of Indigo
 Historically, indigo was used as a dye in ancient civilizations across four continents: in Europe, indigo was used for dyeing bodies prior to battle; in Africa, cloths used for wrapping mummies were dyed in indigo; in Asia, the plant was used as a pigment for carpets; in the Americas, indigo was employed in the dyeing of various textiles. This wide-ranging geographical span speaks to the worldwide popularity of indigo, its lasting power, and its many uses within the realm of art. Indigo’s earliest documentation as a dye can be found in Peru from 4000 B.C.E, where it was used to dye cotton textiles. In the precolonial Americas specifically, indigofera suffruticosa thrived as a dye used for body paint, sculptures, pottery, and murals. Meanwhile in India, indigofera tinctoria was cultivated and traded to ancient European civilizations, especially throughout the Greco-Roman world. This period of independent production and voluntary trade would end with the onset of the colonial period in Europe around the 16th century.
@@ -45,7 +45,19 @@ Though indigo had a rich history in the Indus Valley, the initial reception in E
 ### Caribbean
 In his Natural History of Jamaica, Irish naturalist Sir Hans Sloane describes the way in which indigo is processed in the Caribbean: “Some of the seeds…are put into holes at foot’s distance…[it is] ready to cut in 3 months…They mix it with water, and after fermentation, let it out of the trempoire to the batterie, where ‘tis beat till it granulates…” It is then mixed with more water and placed in sacks with oil beaten into it. Sloane notes later that “Some negroes and French have been kill’d by its ill savour,” drawing attention to the potential dangers of the plant even to those who are knowledgeable about it. The months-long, intensive labor process that constitutes the production of Caribbean indigo was carried out by enslaved workers, who were forced to fulfill the quota of indigo production for various European empires (specifically France and Britain in the Caribbean). The French-named trempoire and batterie included in Sloane’s text are sophisticated steepers and presses devised by colonial powers for the purpose of maximizing productivity.
 
+<param ve-image 
+       label="Early Modern Indigofera Dosua" 
+       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
+       license="Public domain"
+       url="https://biodiversitylibrary.org/pageImage/54768315">
+
 While some made great profits from the popularity of indigo, some profiteers found that “golden hopes which speculations like these have raised in the minds of thousands, have vanished on actual experiment, like visions of the morning.” Jamaica, for example “once furnished a large supply,” but parliament imposed a tax on indigo and many were “obliged to drop it,” as “several industrious families,” were ruined. When this occurred, French islands such as Hispaniola became the main source of supply throughout Great Britain and Europe. The extreme initial opulence of the plantation owners in Jamaica is often remarked upon, however, alongside stories of “the mortality of the negroes from the vapour of the fermented liquor (an alarming circumstance, that, as I am informed, both by the French and English planters, constantly attends the process).” Conditions were inhumane on many levels, and one account of a dinner party on the Governor's indigo plantation in Surinam states “what embittered the pleasure was, the inhuman disposition of Mr. Goetzee’s lady, who flogged her negro slaves for every little trifle.” One who did not clean the glasses to her satisfaction shot himself that very night before he could be punished, and the author “left the estate Catwyk, determined never more to return to it.”
+
+<param ve-image 
+       label="Early Modern Indigofera Dosua" 
+       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
+       license="Public domain"
+       url="https://biodiversitylibrary.org/pageImage/54768315">
 
 Indigo cultivation in the <span data-mouseover-map-flyto="19.084327, -73.076567, 8">West Indes</span> and <span data-mouseover-map-flyto="14.593509, -14.521971, 7">West Africa</span>. may serve as a case study for knowledge networks and exchange among exploited groups. The colonial Caribbean used enslaved labor in order to produce and process indigo, while West African groups mostly relied on indigenous knowledge from as long ago as the 11th century to achieve the same results. In spite of the differences between coercive and voluntary labor, both regions were similar in that they welcomed the exchange of knowledge in order to maximize their product. For example, enslaved people from the Caribbean were documented traveling to Senegal in order to provide their insights on indigo production. Indigo production was different in Senegal from the process Sloane writes above. Instead, the Wolof pounded indigo leaves into a paste, rolled the paste into balls, and then fermented it in a dye vat. The dye vat used for the fermentation process would have been the same one that was used for dyeing. By comparing these two methods of indigo production, the French who sought to establish an indigo enterprise in Senegal could determine which would be most successful. They did not end up using Senegal to further their own indigo endeavors, but the knowledge exchange between enslaved Caribbean indigo workers and the Wolof speaks to the fact that networks of knowledge among exploited groups existed, even in a period of extreme surveillance and control by European powers.
 
