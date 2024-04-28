@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Indigo Plant Narrative"
-       author="Jordan, Hayley, & Gianna"
+       author="Jordan Smith, Hayley Blair, & Gianna Welty"
        banner="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg" 
        layout="vertical">
 
