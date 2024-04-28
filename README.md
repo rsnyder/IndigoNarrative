@@ -6,14 +6,6 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
-
 # Indigo Plant Narrative
 
 ### Indigo: Fading into the Background
@@ -25,14 +17,7 @@ Indigo has a fading problem. A rich pigment used in iconic works such as Johanne
        description="the painting."
        license="Public domain">
 
-### Indigo: Science of Indigo
-More than 750 species belong to the Indigofera L. genus, and its native range spans Africa, Asia, the Southwest Pacific, Central and Southern U.S., and the tropics. The genus belongs to the bean family, and as a legume, Indigo “can fix nitrogen in the soil, and therefore, it’s used as a rotation crop in agriculture to improve soil quality.” Perhaps its most well known of its species is Indigofera Tinctoria, otherwise known as “true indigo.” While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive round leaves. Once these leaves are harvested, the blue dye is made through a process of fermentation [maybe go more in depth on the actual process here, describe the vats]. Leaves are “soaked in water and churned until they release a navy blue froth,” filtered for impurities and turned into a powder or paste. In most cases, this powder or paste is then used to create pigment for paint and to dye clothing and textiles. Despite its proclivity toward fading, the widespread popularity of indigo’s natural dye has lasted for millennia.
-
-<param ve-image 
-       label="Early Modern Indigofera Dosua" 
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
+More than 750 species belong to the Indigofera L. genus, and its native range spans Africa, Asia, the Southwest Pacific, Central and Southern U.S., and the tropics. The genus belongs to the bean family, and as a legume, Indigo “can fix nitrogen in the soil, and therefore, it’s used as a rotation crop in agriculture to improve soil quality.” Perhaps its most well known of its species is _Indigofera tinctoria_, otherwise known as “true indigo.” While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive round leaves. Once these leaves are harvested, the blue dye is made through a process of fermentation [maybe go more in depth on the actual process here, describe the vats]. Leaves are “soaked in water and churned until they release a navy blue froth,” filtered for impurities and turned into a powder or paste. In most cases, this powder or paste is then used to create pigment for paint and to dye clothing and textiles. Despite its proclivity toward fading, the widespread popularity of indigo’s natural dye has lasted for millennia.
 
 ### Ancient & Indigenous Uses of Indigo
 Historically, indigo was used as a dye in ancient civilizations across four continents: in Europe, indigo was used for dyeing bodies prior to battle; in Africa, cloths used for wrapping mummies were dyed in indigo; in Asia, the plant was used as a pigment for carpets; in the Americas, indigo was employed in the dyeing of various textiles. This wide-ranging geographical span speaks to the worldwide popularity of indigo, its lasting power, and its many uses within the realm of art. Indigo’s earliest documentation as a dye can be found in Peru from 4000 B.C.E, where it was used to dye cotton textiles. In the precolonial Americas specifically, indigofera suffruticosa thrived as a dye used for body paint, sculptures, pottery, and murals. Meanwhile in India, indigofera tinctoria was cultivated and traded to ancient European civilizations, especially throughout the Greco-Roman world. This period of independent production and voluntary trade would end with the onset of the colonial period in Europe around the 16th century.
