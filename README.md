@@ -43,8 +43,6 @@ Historically, indigo was used as a dye in ancient civilizations across four cont
        license="Public domain"
        url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5023320/bin/1501623-F1.jpg">
 
-
-
 ### 16th-17th c.
 Though indigo had a rich history in the Indus Valley, the initial reception in Europe was mixed. Some were astonished by the dyeing power of this freshly encountered plant and were eager to use it for profit or personal use. Others clung to the older tradition of woad, which had been commonly used as a producer of blue dye since before Britain was conquered by the Romans, though it was not as effective. Merchants who had previously made enormous profits from woad grappled against their imminent obsolescence. France enacted a death penalty law attached to the use of indigo in 1609, and Germany declared indigo the “devil’s dye.” Indigo was declared a poisonous substance in England and banned until 1660. Most ignored the law, however, mixing indigo with woad to produce stronger vats, and the East India Company happily supplied the illegal plant to dyers. There was a fascination with substance, despite the surrounding controversy. A young French traveler in 1687 found that artisans created “an excellent blew dye,” and he hoped to discover their “particular secret” method. He met “an Indian living at Aleppo who paints Boxes and Canes of Pipes, on which he makes a great many Circles, and little points of diverse Colours; but being the only person that knows the secret, he is so jealous of it, that he will not teach any other, and it was to no purpose for Monsieur Bertet to offer him five and twenty Piastres to oblige him to tell it me.” The French legalized indigo first and became the main source of indigo throughout Europe. This allowed them a lead in the indigo market that countries such as England fought to regain throughout the next several hundred years. In the heat of this frantic rush for profit, a wide swath of lands, people, and cultures were stripped of freedom and identity, staining the history of indigo forever. 
 
@@ -54,26 +52,11 @@ Though indigo had a rich history in the Indus Valley, the initial reception in E
        license="Public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Caricature_gillray_plumpudding.jpg">
 
-###Caribbean
+### Caribbean
 In his Natural History of Jamaica, Irish naturalist Sir Hans Sloane describes the way in which indigo is processed in the Caribbean: “Some of the seeds…are put into holes at foot’s distance…[it is] ready to cut in 3 months…They mix it with water, and after fermentation, let it out of the trempoire to the batterie, where ‘tis beat till it granulates…” It is then mixed with more water and placed in sacks with oil beaten into it. Sloane notes later that “Some negroes and French have been kill’d by its ill savour,” drawing attention to the potential dangers of the plant even to those who are knowledgeable about it. The months-long, intensive labor process that constitutes the production of Caribbean indigo was carried out by enslaved workers, who were forced to fulfill the quota of indigo production for various European empires (specifically France and Britain in the Caribbean). The French-named trempoire and batterie included in Sloane’s text are sophisticated steepers and presses devised by colonial powers for the purpose of maximizing productivity.
 
-<param ve-image 
-       label="France versus England" 
-       description="Napolean's military uniforms were also dyed with indigo."
-       license="Public domain"
-       url="https://www.archive.org/download/artdelindigotie00Beau/page/n134_w350">
-
-
-###Caribbean and South America
 While some made great profits from the popularity of indigo, some profiteers found that “golden hopes which speculations like these have raised in the minds of thousands, have vanished on actual experiment, like visions of the morning.” Jamaica, for example “once furnished a large supply,” but parliament imposed a tax on indigo and many were “obliged to drop it,” as “several industrious families,” were ruined. When this occurred, French islands such as Hispaniola became the main source of supply throughout Great Britain and Europe. The extreme initial opulence of the plantation owners in Jamaica is often remarked upon, however, alongside stories of “the mortality of the negroes from the vapour of the fermented liquor (an alarming circumstance, that, as I am informed, both by the French and English planters, constantly attends the process).” Conditions were inhumane on many levels, and one account of a dinner party on the Governor's indigo plantation in Surinam states “what embittered the pleasure was, the inhuman disposition of Mr. Goetzee’s lady, who flogged her negro slaves for every little trifle.” One who did not clean the glasses to her satisfaction shot himself that very night before he could be punished, and the author “left the estate Catwyk, determined never more to return to it.”
 
-<param ve-image 
-       label="France versus England" 
-       description="Napolean's military uniforms were also dyed with indigo."
-       license="Public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/82/Narrative_of_an_expedition_to_Surinam%2C_cover_1796.png">
-
-###Africa and the Caribbean
 Indigo cultivation in the <span data-mouseover-map-flyto="19.084327, -73.076567, 8">West Indes</span> and <span data-mouseover-map-flyto="14.593509, -14.521971, 7">West Africa</span>. may serve as a case study for knowledge networks and exchange among exploited groups. The colonial Caribbean used enslaved labor in order to produce and process indigo, while West African groups mostly relied on indigenous knowledge from as long ago as the 11th century to achieve the same results. In spite of the differences between coercive and voluntary labor, both regions were similar in that they welcomed the exchange of knowledge in order to maximize their product. For example, enslaved people from the Caribbean were documented traveling to Senegal in order to provide their insights on indigo production. Indigo production was different in Senegal from the process Sloane writes above. Instead, the Wolof pounded indigo leaves into a paste, rolled the paste into balls, and then fermented it in a dye vat. The dye vat used for the fermentation process would have been the same one that was used for dyeing. By comparing these two methods of indigo production, the French who sought to establish an indigo enterprise in Senegal could determine which would be most successful. They did not end up using Senegal to further their own indigo endeavors, but the knowledge exchange between enslaved Caribbean indigo workers and the Wolof speaks to the fact that networks of knowledge among exploited groups existed, even in a period of extreme surveillance and control by European powers.
 
 <param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
@@ -83,17 +66,8 @@ Indigo cultivation in the <span data-mouseover-map-flyto="19.084327, -73.076567,
        size="727, 464"
        circle="true">
 
-###18th c. SC
+### Eighteenth Century: Indigo in South Carolina
 
-While indigo often fades as a dye or a pigment, the plant itself is known to stain the hands of the workers that process the plant into a dye, leaving their palms a shade of dark blue. Tiffany Lethabo King considers the image of “porous indigo-stained hands” as a rendering of “black fungibility”: a “mode of critique or alternative reading practice” that “[visualizes] Blackness as an open state of possibility with the capacity to transform conditions of subjection.” She points to Julie Dash’s 1991 film, Daughters of the Dust, in which indigo-stained hands are a symbol of bodily subjection and generational trauma. The film’s Peazant family lives on Igbo Landing, and their enslaved ancestors were forced to work on indigo plantations. Though they are no longer enslaved in the film, the stained hands of the eldest generation serve as a reminder of a painful past. Gullah expert Margaret Washington Creel notes that although indigo stains are not permanent, it still has a poisonous effect, leaving indelible “scars” on the flesh and contributing to many deaths of enslaved people. While indigo stains here represent open possibilities, they also conversely illustrate the durability of the family’s Gullah culture and language. As such, the deep blue of indigo, which also dyes the Peazant women’s clothing and floods beautiful shots of the landing’s ocean scenery, becomes a stand-in for the family’s simultaneous fungibility (boundlessness), resiliency, and inter-generational bond. 
-
-<param ve-image 
-       label="Early Modern Indigofera Dosua" 
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="Public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/5/56/Indigo_hands.jpg">
-
-###SC Cont.
 While Dash’s Twentieth century film depicts the beginning of slavery’s afterlife and reclaim indigo as a symbol of Black resilience, the plant's history in the Southern United States is not so beautiful. Though the film takes place in Georgia, indigo was the main cash crop of the state’s neighbor, South Carolina. One record from 1796 states of indigo that, “Of this valuable commodity, one million three thousand pounds weight have been shipped from the city of Charleston alone in one year…The uniform of the national troops has been heretofore of blue cloth, as also of the militia in general. Their clergy also by their customs wear this color, and it is generally liked among the most frugal and expensive people.” The popularity and success of the state’s indigo industry in the Eighteenth Century is largely attributed to Eliza Lucas Pinckney, who was one of the first European settlers in the state to successfully cultivate indigo and process its dye. With the help of an African dye maker that her father hired to help her, a 16-year-old Pinckney first planted indigo in South Carolina in 1744. With the help of enslaved laborers, Pinckney continued to experiment with the plant, and its subsequent popularity as a cash crop contributed to South Carolina’s status as the wealthiest of the American colonies throughout the Eighteenth century. [Finish paragraph with discussion of Quash]
 
 <param ve-image 
@@ -102,22 +76,15 @@ While Dash’s Twentieth century film depicts the beginning of slavery’s after
        license="Public domain"
        url="https://commons.wikimedia.org/wiki/File:Eliza_Izard_Pinckney_-_Edward_Greene_Malbone_(page_221_crop).jpg">
 
-###Influence on Native Americans
-The predominance of indigo and other cash crops also changed the environmental landscape of the United States irreversibly, displacing Native American tribes as well. One account from 1793 states: “About fifteen years ago I visited this place, at which time there were no settlements of white people, but all appeared wild and savage; yet in the uncultivated state it possessed an almost inexpressible air of grandeur, which was now entirely changed…but that venerable grove is now no more. All has been cleared away and planted with indigo, corn, and cotton, but since deserted…it appeared like a desert to a great extent.”
+### End of first half of essay
 
-<param ve-image 
-       label="Early Modern Indigofera Dosua" 
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="Public domain"
-url="https://upload.wikimedia.org/wikipedia/commons/8/80/Newberry_County%2C_South_Carolina._A_pine_plantation_on_submarginal_farm_lands_on_the_Enoree_District_._._._-_NARA_-_522782.tif">
-
-###19th c. India
+### 19th c. India
 Decades later in 1860, Lieutenant Governor of South Carolina Plowden Weston stated that of all the state’s youths “not one… remembers the cultivation of indigo.” Indeed, following the American Revolution in 1776, England turned to India for its indigo supply. For Bengal playwright Dinabandhu Mitra, the blue stains on the hands of indigo farmers were mirrored by the “stain of selfishness” that marked the British indigo planters. In 1860, Mitra published Nil Darpan (The Indigo Planting Mirror), a short drama that highlights the exploitation of indigo ryots in Bengal under British Company Rule. The play depicts the ways in which English planters coerced farmers into growing indigo through exploitative means—farmers were often forced to “take out loans and sell the crop to planters at fixed (low) prices, forcing them into a cycle of debt and economic dependence that was often enforced with violence”—ultimately leaving the farmer little recourse to improve their conditions. In the drama’s first act, character Ray Churn vocalizes the ryots’ concerns when he cries out, “What shall we eat now, and what shall our children take? This large family may die without food . . .What has the Indigo of this white man done?” Throughout the drama, the violence and oppression committed by British planters “[results] in either the madness of death of almost every one of the principal Indian characters,” and “Not only do the planters ruin the ryots, but they also corrupt the judicial officers of the government.” Nil Darpan was the “first play to be staged commercially at the National Theatre in Calcutta,” and became one of the most popular Indian dramas in the Nineteenth and Twentieth centuries.
 
 <param ve-iframe
 src="https://books.google.com/books?id=wD0YAAAAYAAJ&newbks=0&pg=PA1&output=embed">
 
-###Blue Mutiny
+### Blue Mutiny
 In 1861, the play was translated into English by Michael Madhusudan Dutt, then published by missionary Reverend James Long, who was arrested for sedition despite having “omitted,” “expunged [and] softened” a “great deal” of the play. In a statement following his arrest, Long writes that he published the translation as a warning to the British of the “volcano . . . forming beneath [the ryots] feet.” Indeed, the volcano forming beneath the feet of the ryots erupted in 1859. As Mitra was writing Nil Darpan from 1858–1859, he based the drama on Bengal’s Indigo Revolt, also known as the Blue Mutiny. The revolt began in the autumn of 1859 when ryots refused to sow indigo for their English planters. The years leading up to the revolt had seen the beginnings of a national sentiment in Calcutta stemming from “a political struggle against the British mercantile community,” as well as “the rise of new social classes in rural Bengal.” With a newly heightened political consciousness, the Bengali farmers’ collective action continued for more than a year, and while it is generally known as a peaceful revolt, some ryot groups deployed methods of militant violence. The movement led by the Biswases of Chaugacha in the Jessore district, for example, was “violent and armed . . . weaken[ing] the theory . . . of peasants as lachrymose and timid.”
 
 <param ve-image
@@ -126,7 +93,7 @@ In 1861, the play was translated into English by Michael Madhusudan Dutt, then p
        license="Public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/Indigo_Manufacture_in_India%2C_1887.jpg">
 
-###Commission Report
+### Commission Report
 Long’s English edition ensured that the Nil Darpan became well-known even within the highest ranks of British politics, adding a negative hue to the public’s perception of British indigo planters once the details came to light. Following the Indigo Revolt, the English established an investigation into the injustices being perpetrated on indigo farms in India, leading to the 1861 Report of the Indigo Commission. Within the report, EWL Towers, the magistrate of Faridpur, stated that “not a chest of indigo reached England without being stained with human blood.” The revolts, the play, and the subsequent Indigo Commission did result in positive changes for workers in Bengal, but other parts of India remained exploited. [what did the commission result in]
 
 <param ve-image
@@ -135,7 +102,7 @@ Long’s English edition ensured that the Nil Darpan became well-known even with
        license="Public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/ef/20-Group-of_Indigo-beaters.jpg">
 
-###Gandhi
+### Gandhi
 Though synthetic indigo dyes took hold in the late 19th century, British planters continued to exploit the labor of indigo farmers in India well into the 20th century. As such, indigo became an important factor in India’s independence movement. The oppression and exploitation of the indigo farmers in Champaran inspired Mahatma Gandhi to pursue his ideals of peaceful resistance to British colonial rule, and as such the Champaran Satyagraha became “the first laboratory of experiment…for his political ideas.” One official Enquiry Committee into the working conditions of indigo farmers at this time stated that “‘the oppression of the indigo factory had on one occasion driven some 200 cultivators to Nepal wherefrom they never returned.’ Yet so great was the influence of the British planters that the Government practically did nothing to check these oppressions.” Gandhi was asked to see the plight of indigo farmers for himself, and he agreed to visit Motihari on April 15, 1917. There he was served notice of criminal procedures being enacted against him, as the District Magistrate of Champaran asked him to leave immediately. Gandhi replied, “I feel it to be my duty to say that I am unable to leave the district, but if it so pleases the authorities I shall submit to the order by suffering the penalty of disobedience.” Gandhi’s peaceful mission meant he was allowed to stay, however, and take an account of all the mistreatments that were occurring. He wrote to the Government of Bihar with thousands of accounts, and they appointed an enquiry committee, which made “drastic recommendations in its report to improve the state of affairs in the district,” which were then mostly implemented by the government. Eventually, due to the unfavorable atmosphere for indigo planters, partly influenced by the popularization of synthetic indigo dye, “all the factories which had once manufactured indigo were sold away in a few years.”  
 
 <param ve-image
@@ -144,7 +111,7 @@ Though synthetic indigo dyes took hold in the late 19th century, British planter
        license="CC BY-SA 4.0"
        url="https://commons.wikimedia.org/w/index.php?search=indigo+stamp&title=Special:MediaSearch&go=Go&type=image">
 
-###Synthetic Dyes
+### Synthetic Dyes
 Though the Champaran Satyagraha was an important step both for India’s independence and a more ethical indigo farming industry, health and labor issues for factory workers continue today with the creation of synthetic indigo dye. The enduring demand for indigo in the textile industry has placed synthetic indigo production on a large-scale industrial level: every year, “around 80,000 tonnes of indigo are chemically produced . . . with the use of non-renewable petrochemicals and the . . . generation of toxic compounds.” Moreover, at least 400 tons of aniline (a toxic carcinogen) are released each year from synthetic indigo production. Just one third of the compound loss “remains on the denim fabric distributed as commercial products,” while the remaining two thirds “is divided between wastewater, air, and plant workers.” This type of large-scale chemical production creates additional issues with disposal, and because wastewater treatments are expensive, “many facilities dump the spent dyestuff directly into rivers, contributing to environmental pollution.” While just 17 production sites are responsible for most of the world’s synthetic indigo dye, only one falls under any type of wastewater restrictions. Like most environmental issues, low-income communities are disproportionately affected by the harmful effects of synthetic indigo production. About 87 percent of synthetic production today is “located in low-wage and lower-income countries,” which means workers and local inhabitants are exposed to toxic environments, and workers are compensated for little to no pay. Although it would be hoped that poor treatment of people in the name of indigo profits would be a thing of the past, it seems that it will continue indefinitely until concrete changes are made.
 
 <param ve-image
@@ -153,7 +120,7 @@ Though the Champaran Satyagraha was an important step both for India’s indepen
        license="Public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/8/80/Clipping_of_Denim_Pant.jpg">
 
-###SC Today
+### SC Today
 Despite the now global use of harmful chemical dyes, natural indigo dye is starting to fade back into South Carolina’s Lowcountry.With England’s turn to India for indigo and the rising popularity of synthetic dyes, indigo production largely disappeared from the state in the Nineteenth century. However, farmers and textile artists there have recently returned to the centuries-old methods of processing indigo dye in efforts to move away from the environmentally harmful petroleum-based dyes. On a half-acre plot in Adams Run, S.C., farmer and entrepreneur Sheena Myers continues her family's tradition of harvesting indigo. For Myers, the plant’s revival provides both an eco-friendly alternative to chemical dyes and a way to get local communities “back to the land.” While farmers like Myers focus on the ethical harvesting of the indigo plant, artists like Arianne King Comer are thinking about how “blue gold” has the power to communicate heritage and healing through batik.
 
 <param ve-image 
