@@ -172,7 +172,7 @@ In 2022, the New York Botanical Garden planted the African-American Garden at it
 ###SOMArts 
 In 2022, the SOMArts Cultural Center in San Francisco debuted an exhibition called “The Indigo Project.” This exhibition, which included multidisciplinary works such as textiles, photographs, and dolls, aimed to highlight the connection between Black culture and the production of indigo-based art. Created by priestess Bushmama Africa and artist Isha Rosemond, the exhibition was meant to point to, in Africa’s words, “Africa before colonization,” in which “all the dynasties wore indigo and they had their own print that signified each dynasty.” Certainly, the location of the exhibition in America and its emphasis on precolonial Africa makes a connection between the two inevitable, and reminds viewers of indigo’s equal significance to enslavement in America.
 
-<param ve-image 
+<param ve-image
        label="Early Modern Indigofera Dosua" 
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
