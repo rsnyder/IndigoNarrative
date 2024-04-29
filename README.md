@@ -18,8 +18,8 @@ Upon first glance, the <span data-mouseover-image-zoomto="2301,3670,1536,1242">b
 
 More than 750 species belong to the _Indigofera L._ genus, and its native range spans Africa, Asia, the Southwest Pacific, Central and Southern U.S., and the tropics.[^1] The genus belongs to the bean family, and as a legume, Indigo “can fix nitrogen in the soil, and therefore, it’s used as a rotation crop in agriculture to improve soil quality.”[^2] Perhaps its most well known of its species is _Indigofera tinctoria_, which, otherwise known as “true indigo,”  is the dominant species in the Indian subcontinent.[^3] Another popular indigo species is _Indigo suffruticosa_, which is dominant in Central and South America.[^4] While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive round leaves. Once these leaves are harvested, the blue dye is made through a process of <span eid="Q41760">fermentation</span>. Leaves are “soaked in water and churned until they release a navy blue froth,” which is then filtered for impurities and turned into a powder or paste.[^5] In most cases, this powder or paste is then used to create pigment for paint and a dye for clothing and textiles. 
 
-<param ve-image 
-       label="Early Modern Indigofera Dosua" 
+<param ve-image
+       label="Early Modern Indigofera Dosua"
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
        url="https://biodiversitylibrary.org/pageImage/54768315">
@@ -27,8 +27,8 @@ More than 750 species belong to the _Indigofera L._ genus, and its native range 
 ### Ancient & Indigenous Uses of Indigo
 The earliest documented use of indigo can be found in 4000 B.C.E., located in what is now Peru. Throughout the Americas in both the ancient and premodern periods, the species _Indigofera suffruticosa_ was used for textiles, body paint, sculptures, pottery, and murals. A millennium later, indigo in the form of the species _Indigofera tinctoria_ was cultivated in the Indus Valley Civilization, from which it received both a European market and its name, known throughout the Roman Empire as _indicum_. As a consequence of both trade and indigenous cultivation, indigo was also used as a dye in the ancient regions and civilizations of West Africa, East Asia, and Mesopotamia. Eventually superseding European woad, indigo from the Indian subcontinent would become a commonly-used dye and lucrative business opportunity at the onset of the colonial period in the 16th century.
 
-<param ve-image 
-       label="Early Modern Indigofera Dosua" 
+<param ve-image
+       label="Early Modern Indigofera Dosua"
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
        url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5023320/bin/1501623-F1.jpg"
