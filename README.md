@@ -1,6 +1,10 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
-<param ve-config title="Indigo Plant Narrative" author="Jordan Smith, Hayley Blair, & Gianna Welty" banner="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg" layout="vertical">
+<param ve-config
+       title="Indigo Plant Narrative"
+       author="Jordan Smith, Hayley Blair, & Gianna Welty"
+       banner="https://upload.wikimedia.org/wikipedia/commons/5/5a/Indigo-guizhou.jpg"
+       layout="vertical">
 
 # Indigo Plant Narrative
 
