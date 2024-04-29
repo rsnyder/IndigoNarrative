@@ -9,14 +9,14 @@
 # Indigo Plant Narrative
 
 ### Indigo: Fading into the Background
-Upon first glance, the <span data-mouseover-image-zoomto="2301,3670,1536,1242">background</span> of Johannes Vermeer’s _Girl with a Pearl Earring_ (c. 1665) appears black, especially when viewed against the light blue of the subject’s turban. However, thanks to the passage of four centuries, the original indigo pigment used to paint the background has faded, rendering its significance hardly noticeable to a modern audience more fixated on matters such as the subject's identity. The pigment itself is not the only aspect of the painting that has faded: the context in which indigo was obtained and used during the colonial period has been largely overlooked for a dye whose widespread popularity has endured for millennia. For the purposes of this painting, it was exported from the Americas to the Netherlands, and therefore was most likely produced using enslaved labor [^ref1]. This is one of the many examples of indigo’s inextricable linkage with a dark colonial past. The indigo plant certainly carries a diverse history often associated with colonialism and the exploitation of labor. When paid greater attention, however, this history reveals overlooked art forms that contribute to a reframing of knowledge that reaches beyond its violent past.
+Upon first glance, the <span data-mouseover-image-zoomto="2301,3670,1536,1242">background</span> of Johannes Vermeer’s _Girl with a Pearl Earring_ (c. 1665) appears black, especially when viewed against the light blue of the subject’s turban. However, thanks to the passage of four centuries, the original indigo pigment used to paint the background has faded, rendering its significance hardly noticeable to a modern audience more fixated on matters such as the subject's identity. The pigment itself is not the only aspect of the painting that has faded: the context in which indigo was obtained and used during the colonial period has been largely overlooked for a dye whose widespread popularity has endured for millennia. For the purposes of this painting, it was exported from the Americas to the Netherlands, and therefore was most likely produced using enslaved labor. This is one of the many examples of indigo’s inextricable linkage with a dark colonial past. The indigo plant certainly carries a diverse history often associated with colonialism and the exploitation of labor. When paid greater attention, however, this history reveals overlooked art forms that contribute to a reframing of knowledge that reaches beyond its violent past.
 
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c"
        label="Vermeer's Girl With a Pearl Earring"
        license="Public domain">
 
-More than 750 species belong to the Indigofera L. genus, and its native range spans Africa, Asia, the Southwest Pacific, Central and Southern U.S., and the tropics. The genus belongs to the bean family, and as a legume, Indigo “can fix nitrogen in the soil, and therefore, it’s used as a rotation crop in agriculture to improve soil quality.” Perhaps its most well known of its species is _Indigofera tinctoria_, otherwise known as “true indigo.” While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive round leaves. Once these leaves are harvested, the blue dye is made through a process of fermentation [maybe go more in depth on the actual process here, describe the vats]. Leaves are “soaked in water and churned until they release a navy blue froth,” filtered for impurities and turned into a powder or paste. In most cases, this powder or paste is then used to create pigment for paint and to dye clothing and textiles. Despite its proclivity toward fading, the widespread popularity of indigo’s natural dye has lasted for millennia.
+More than 750 species belong to the _Indigofera L._ genus, and its native range spans Africa, Asia, the Southwest Pacific, Central and Southern U.S., and the tropics.[ref^1] The genus belongs to the bean family, and as a legume, Indigo “can fix nitrogen in the soil, and therefore, it’s used as a rotation crop in agriculture to improve soil quality.”[ref^2] Perhaps its most well known of its species is _Indigofera tinctoria_, which, otherwise known as “true indigo,”  is the dominant species in the Indian subcontinent.[ref^3] Another popular indigo species is _Indigo suffruticosa_, which is dominant in Central and South America.[ref^4] While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive round leaves. Once these leaves are harvested, the blue dye is made through a process of [fermentation] (https://www.wikidata.org/wiki/Q41760). Leaves are “soaked in water and churned until they release a navy blue froth,” which is then filtered for impurities and turned into a powder or paste.[ref^5] In most cases, this powder or paste is then used to create pigment for paint and a dye for clothing and textiles. 
 
 <param ve-image 
        label="Early Modern Indigofera Dosua" 
@@ -70,13 +70,31 @@ While some made great profits from the popularity of indigo, some profiteers fou
 
 ### Eighteenth Century: Indigo in South Carolina
 
-While Dash’s Twentieth century film depicts the beginning of slavery’s afterlife and reclaim indigo as a symbol of Black resilience, the plant's history in the Southern United States is not so beautiful. Though the film takes place in Georgia, indigo was the main cash crop of the state’s neighbor, South Carolina. One record from 1796 states of indigo that, “Of this valuable commodity, one million three thousand pounds weight have been shipped from the city of Charleston alone in one year…The uniform of the national troops has been heretofore of blue cloth, as also of the militia in general. Their clergy also by their customs wear this color, and it is generally liked among the most frugal and expensive people.” The popularity and success of the state’s indigo industry in the Eighteenth Century is largely attributed to Eliza Lucas Pinckney, who was one of the first European settlers in the state to successfully cultivate indigo and process its dye. With the help of an African dye maker that her father hired to help her, a 16-year-old Pinckney first planted indigo in South Carolina in 1744. With the help of enslaved laborers, Pinckney continued to experiment with the plant, and its subsequent popularity as a cash crop contributed to South Carolina’s status as the wealthiest of the American colonies throughout the Eighteenth century. [Finish paragraph with discussion of Quash]
+While indigo often fades as a dye or a pigment, the plant itself is known to stain the hands of the workers that process the plant into a dye, leaving their palms a shade of dark blue. In the eighteenth century, indigo stained the hands of countless enslaved laborers in the United States. Due to the [war of Jenkins’ Ear] (https://www.wikidata.org/wiki/Q54434), British ports were closed to goods from France and Spain from 1739 to 1743. As a result, England turned to the American colonies for its indigo supply, and the colony that produced the most indigo during this time was South Carolina.[ref^11] Indigo’s popularity as a cash crop made South Carolina the wealthiest American colony throughout the eighteenth century, and this success is usually attributed to the agricultural innovations and experiments of [Eliza Lucas Pinckney] (https://www.wikidata.org/wiki/Q12745176). Pinckney managed the state’s most well-known indigo plantation, Wappoo Hall, where she first had indigo planted in 1740 when she was just eighteen years old. In 1741 she learned how to cultivate indigo’s dye with the guidance of Nicholas Cromwell, a contract laborer from [Montserrat] (https://www.wikidata.org/wiki/Q13353).[ref^12] Thereafter, Pinckney heavily relied on enslaved labor for the success of her indigo enterprise.
 
 <param ve-image 
-       label="Early Modern Indigofera Dosua" 
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="Public domain"
-       url="https://commons.wikimedia.org/wiki/File:Eliza_Izard_Pinckney_-_Edward_Greene_Malbone_(page_221_crop).jpg">
+       label="Indigo Hands, by Anjora Noronha" 
+       description="Indigo dye stains workers hands a dark blue for several days."
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/56/Indigo_hands.jpg">
+
+While studying Pinckney’s family records, Andrea Feeser discovered that Wappoo Hall’s indigo operations relied on the labor of twenty enslaved people.[ref^13] While most details of their lives remain mysterious, Feeser discovered that one enslaved man named Quash (later known as John Williams) played a crucial role in Pinckney’s success.[ref^14] In 1744, Pinckney expressed in a letter to her husband, Charles Pinckney, that she no longer trusted Cromwell, and “therefore [desired] Quashy may be put immediately, to make an indigo work of the same dimensions.”[ref^15] Williams was a skilled carpenter, and in 1746 was put in charge of the construction of Pinckney’s Charles Town residence.[ref^16] As such, his labor, both direct and indirect to indigo production, was a key component in the success of Pinckney’s business. Feeser uncovered documents that reveal that Williams was manumitted in 1750, and that he went on to buy his three daughters out of slavery in 1751.[ref^17] By 1763, he owned hundreds of acres of land along the Santee River.[ref^18] Of course, Williams was just one of thousands of enslaved workers that made the indigo industry successful. While his story ended well, the stained hands of countless other workers reveal the extent of indigo’s dark history in the American south.
+
+<param ve-map
+       center="32.818369, -79.929117"
+       zoom="11"
+       Title="Charleston, South Carolina"
+       prefer-geojson>
+<param ve-map-layer geojson
+       url="https://raw.githubusercontent.com/IndigoGirlH/IndigoNarrative/main/SCgeo.json"
+       show-labels
+       show-titles
+       stroke-width="0">
+<param ve-map-marker
+       coords="32.846074, -79.824693"
+url="https://upload.wikimedia.org/wikipedia/commons/1/11/Charles_Pinckney_National_Historic_Site_%28de0d374d-090d-46eb-b83a-a106effa97c4%29.jpg"
+       size="800, 533"
+       circle="true">
 
 ### End of first half of essay
 
@@ -253,5 +271,16 @@ Indigo was a major cash crop in colonial South Carolina, and most of its product
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
-[^2]: [We'll need to convert these to formatted citations later](https://www.biodiversitylibrary.org/pageImage/40474136)
+[^1]: "_Indigofera_ L.," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001793-2.
+[^2]: Suryatapa Jha, "Plant of the Month: Indigo," JSTOR Daily, JSTOR, June 22, 2023, https://daily.jstor.org/plant-of-the-month-indigo/.
+[^3]: Ibid.
+[^4]: "_Indigo suffruticosa_," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:500063-1.
+[^5]: "Indigo," MAP Academy Encyclopedia of Art, MAP Academy, April 21, 2022, https://mapacademy.io/article/indigo/
+[^11]:  G. Terry. Sharrer, “Indigo in Carolina, 1671-1796,” The South Carolina Historical Magazine 72, no. 2 (1971): 94–103, 95.
+[^12]: Andrea Feeser, "Slave John Williams,: A Key Contributor to the Lucas-Pinckney Indigo Concern," in _Red, White, and Black Make Blue: Indigo in the Fabric of Colonial South Carolina Life,_ (Athens, GA: University of Georgia Press, 2013), 99–108, 103.
+[^13] Ibid, 108.
+[^14] Ibid, 99.
+[^15] Eliza Pinckney quoted in Ibid, 105.
+[^16] Ibid, 105.
+[^17] Ibid, 106–7.
+[^18] Ibid, 107.
