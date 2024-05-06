@@ -112,7 +112,26 @@ Nil Darpan was the first commercially staged play at Calcutta’s National Theat
 src="https://books.google.com/books?id=q5ZeAAAAcAAJ&pg=PP5&output=embed">
 
 ### Gandhi’s Peaceful Revolution & Champaran Satyagraha: 
-The revolts, the play, and the subsequent Indigo Commission did result in reform for workers in Bengal, but did not end the injustices in the area of North Bihar. By the late nineteenth century, synthetic indigo dyes had taken hold, but the outbreak of WWI in 1914 instigated a demand for natural indigo once again, and British planters continued to exploit the labor of indigo farmers in India well into the twentieth century. As such, indigo became an important factor in India’s independence movement.  After developing his political ideas of peaceful resistance in South Africa, Gandhi returned to India, and his first protests against British rule in his home country took form in protests against the working conditions of indigo farmers in Champaran. Due to his reputation as an activist, Gandhi was asked at the Lucknow Congress meeting in 1916 to see the plight of indigo farmers for himself, and he visited Motihari on April 15, 1917. There he was served notice of criminal procedures being enacted against him, as the District Magistrate of Champaran was threatened by his presence and asked him to leave immediately. Gandhi refused to retreat until he had completed his mission, however, and rumors spread among the people that the magistrate had been forced to apologize, spreading hope.  He wrote to the Government of Bihar with thousands of accounts from indigo workers he’d collected via interviews, and they appointed an enquiry committee, which made “drastic recommendations in its report to improve the state of affairs in the district,” which were then mostly implemented by the government. [^39]  His efforts became known as the Champaran Satyagraha, which is the location of the protests, plus the term Gandhi invented to describe his methods of peaceful resistance, derived from the Indian words Satya (truth) and agraha (firmness or force).[^40] His successful protests against the oppression and exploitation of the indigo farmers in Champaran became “the first laboratory of experiment…for his political ideas,” and were the start of his peaceful resistance to British rule in India.[^41]
+The revolts, the play, and the subsequent Indigo Commission did result in reform for workers in Bengal, but did not end the injustices in the area of North Bihar. By the late nineteenth century, synthetic indigo dyes had taken hold, but the outbreak of WWI in 1914 instigated a demand for natural indigo once again, and British planters continued to exploit the labor of indigo farmers in India well into the twentieth century. As such, indigo became an important factor in India’s independence movement.  After developing his political ideas of peaceful resistance in South Africa, Gandhi returned to India, and his first protests against British rule in his home country took form in protests against the working conditions of indigo farmers in <span data-mouseover-map-flyto="26.6156, 84.8409, 11">the Champaran district of Bihar.</span>
+
+The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of Bihar</span> is where Gandhi began his first efforts of peaceful resistance in India protesting the poor treatment and low pay of indigo workers in 1917.
+<param ve-map
+       center="26.5833, 84.8333"
+       zoom=5
+       Title="Champaran"
+       prefer-geojson>
+<param ve-map-layer geojson
+       url=https://raw.githubusercontent.com/IndigoGirlH/IndigoNarrative/main/IndiaMap.json
+       show-labels
+       stroke-width="0">
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Buddhist_Stupa_at_Kesariya_at_Champaran_%28east%29_district_of_Bihar%2C_India._12.jpg"
+       coords="26.5833, 84.8333"
+       size="400, 200" 
+       size="400, 200"
+       circle="true">
+
+Due to his reputation as an activist, Gandhi was asked at the Lucknow Congress meeting in 1916 to see the plight of indigo farmers for himself, and he visited Motihari on April 15, 1917. There he was served notice of criminal procedures being enacted against him, as the District Magistrate of Champaran was threatened by his presence and asked him to leave immediately. Gandhi refused to retreat until he had completed his mission, however, and rumors spread among the people that the magistrate had been forced to apologize, spreading hope.  He wrote to the Government of Bihar with thousands of accounts from indigo workers he’d collected via interviews, and they appointed an enquiry committee, which made “drastic recommendations in its report to improve the state of affairs in the district,” which were then mostly implemented by the government. [^39]  His efforts became known as the Champaran Satyagraha, which is the location of the protests, plus the term Gandhi invented to describe his methods of peaceful resistance, derived from the Indian words Satya (truth) and agraha (firmness or force).[^40] His successful protests against the oppression and exploitation of the indigo farmers in Champaran became “the first laboratory of experiment…for his political ideas,” and were the start of his peaceful resistance to British rule in India.[^41]
 
 <param ve-image
        label="Commemorative Stamp"
