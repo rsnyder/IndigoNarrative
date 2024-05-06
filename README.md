@@ -32,6 +32,7 @@ The earliest documented use of indigo can be found in 4000 B.C.E., located in wh
        label="Early Modern Indigofera Dosua"
        description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
        license="Public domain"
+       contain=fit
        url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png">
 
 ### Beautiful but banned
