@@ -28,7 +28,7 @@ More than 750 species belong to the _Indigofera L._ genus, and its native range 
 ### Ancient & Indigenous Uses of Indigo
 The earliest documented use of indigo can be found in 4000 B.C.E., located in what is now Peru. Throughout the Americas in ancient and premodern times, the species _Indigofera suffruticosa_ was used to make dyes for textiles, body paint, sculptures, pottery, and murals. A millennium later, in 3000 B.C.E., indigo in the form of the species _Indigofera tinctoria_ was cultivated in the Indus Valley. This period and location of cultivation is where indigo received both a European market and its name, known throughout the Roman Empire as _indicum_. As a consequence of both trade and indigenous cultivation, indigo was also used as a dye in the ancient regions and civilizations of West Africa, East Asia, and Mesopotamia.
 
-### 16th-17th c.
+### Beautiful but banned
 Though indigo had a rich history in the Indus Valley, the initial reception in Europe in the 16th century was mixed. Some were astonished by the dyeing power of this freshly encountered plant and were eager to use it for profit or personal use. Others had already invested all their capital woad, which had been commonly used to make blue dye since before Britain was conquered by the Romans. Although it was not as effective as indigo, woad had brought middle-class merchants great profit, and they had gained substantial influence sponsoring the creation of churches, towns and universities with their wealth. After indigo arrived, suppliers of woad fought their potential obsolescence, and those who were heavily invested in the product fought to keep their profits secure. France enacted a death penalty law attached to the use of indigo in 1609, and in Germany indigo was known colloquially as the “devil’s dye.” England declared indigo as a poisonous substance and banned it until 1660. Most dyers ignored the law throughout Europe, however, mixing indigo with woad to produce stronger vats.[^9] The East India Company, which was founded in 1600, happily supplied the illegal plant to dyers from India.[^10]​​ In spite of the EIC’s early interest, France changed their laws first and became the only legal source of indigo, which for a time allowed them to become the main supplier throughout Europe. This move gave them a head start in the competition for indigo profits that would continue throughout the next several hundred years.[^11]  
 
 <param ve-image 
@@ -37,7 +37,7 @@ Though indigo had a rich history in the Indus Valley, the initial reception in E
        license="James Gillray, Public domain, via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Caricature_gillray_plumpudding.jpg">
 
-### Caribbean
+### Exploitation in the Caribbean
 In the heat of this frantic rush for profit, European countries found that they could cheaply plant indigo in the Caribbean. Caribbean indigo production began in the seventeenth century, born out of economic competition between the Spanish, French, and British, as well as the necessity for indigo to be grown in a tropical climate. The first European indigo plantations in the Caribbean emerged in the 1630s, and expanded to include other islands by the mid-1600s. Jamaica, Martinique, and Haiti became prominent indigo producers, with Haiti producing the most indigo throughout the remainder of the seventeenth century and into the early eighteenth century. By 1790, the year before the onset of the Haitian Revolution, there were 3,160 indigo plantations on the island. European overseers of indigo plantations relied on both text written by European naturalists and modern technology in order to produce a successful indigo crop. 
 
 <param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
@@ -58,7 +58,7 @@ In 1694, Jean-Baptiste Labat travelled to Martinique for the purposes of mission
        fit=contain
        url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg">
 
-### Eighteenth Century: Indigo in South Carolina
+### South Carolina enters the Indigo market
 
 While indigo often fades as a dye or a pigment, the plant itself is known to stain the hands of the workers that process the plant into a dye, leaving their palms a shade of dark blue. In the eighteenth century, indigo stained the hands of countless enslaved laborers in the United States. Near the end of the seventeenth century, the British Parliament imposed an export duty on Jamaican indigo as a means of compelling planters into sugar cultivation.[^16] Around the same time, early settlers in South Carolina had begun experimenting with planting indigo.[^17] Due to the War of Jenkins’ Ear, British ports were closed to goods from France and Spain from 1739 to 1743. As a result, England officially turned to the American colonies for its indigo supply and the plant’s popularity as a cash crop made South Carolina the wealthiest American colony throughout the eighteenth century.[^18] This success is usually attributed to the agricultural innovations and experiments of Eliza Lucas Pinckney, who lived in the Lowcountry and managed the colony’s most well-known indigo plantation, Wappoo Hall. This is where she first had indigo planted in 1740, when she was just eighteen years old. While the indigo business started to take off, Carolina still relied on the labor and expertise of Caribbean planters. Pinckney only learned how to cultivate indigo’s dye in 1741 with the guidance of Nicholas Cromwell, a white contract laborer from Montserrat that her father had hired to teach her how to make indigo dye cakes.[^19] 
 
@@ -87,7 +87,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/1/11/Charles_Pinckney_Nation
        size="800, 533"
        circle="true">
        
-### 19th c. India
+### Imperialism in India and the Indigo Revolt
 Decades later in 1860, Lieutenant Governor of South Carolina Plowden Weston stated that of all the state’s youths “not one… remembers the cultivation of indigo.” Indeed, following the American Revolution in 1776, England turned to India for its indigo supply due to political tensions with the newly formed United States. Many English planters coerced Bengali farmers into growing indigo through both lawful and criminal means. One notorious planter named George Meares burned the homes of uncooperative farmers to the ground and successfully petitioned the government to forbid the growth of the rice on land used for indigo.[^26] As a response to this poor treatment, the “Blue Mutiny” occurred in 1859, and prisons were flooded past capacity with arrested protestors who refused to sow indigo for English planters.[^27] The years leading up to the revolt had seen the beginnings of a national sentiment in Calcutta stemming from “a political struggle against the British mercantile community,” as well as “the rise of new social classes in rural Bengal.” [^28] With a newly heightened political consciousness, the Bengali farmers’ collective action continued for more than a year, and while it was largely a peaceful revolt, some ryot groups deployed methods of militant violence.[^29] 
 
 <param ve-image
@@ -105,7 +105,7 @@ Nil Darpan was the first commercially staged play at Calcutta’s National Theat
 <param ve-iframe
 src="https://books.google.com/books?id=q5ZeAAAAcAAJ&pg=PP5&output=embed">
 
-### Gandhi
+### Gandhi’s Peaceful Revolution & Champaran Satyagraha: 
 The revolts, the play, and the subsequent Indigo Commission did result in reform for workers in Bengal, but did not end the injustices in the area of North Bihar. By the late nineteenth century, synthetic indigo dyes had taken hold, but the outbreak of WWI in 1914 instigated a demand for natural indigo once again, and British planters continued to exploit the labor of indigo farmers in India well into the twentieth century. As such, indigo became an important factor in India’s independence movement.  After developing his political ideas of peaceful resistance in South Africa, Gandhi returned to India, and his first protests against British rule in his home country took form in protests against the working conditions of indigo farmers in Champaran. 
 
 <param ve-map center="17.620068, -71.562101" zoom="5" Title="Champaran" prefer-geojson>
@@ -124,7 +124,7 @@ Due to his reputation as an activist, Gandhi was asked at the Lucknow Congress m
        fit=contain
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/Stamp_of_India_-_2017_-_Colnect_700591_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
 
-### Synthetic Dyes
+### Impact of synthetic dyes today
 Though the Champaran Satyagraha was an important step both for India’s independence and a more ethical indigo farming industry, health and labor issues for factory workers continue today, even though the use of natural indigo dye has declined significantly due to the creation of synthetic indigo dye. The enduring demand for blue dye in the textile industry has placed synthetic indigo production on a large-scale industrial level: every year, about 80,000 tons of chemically produced indigo are created using non-renewable petrochemicals, generating toxic compounds.[^42] Moreover, at least 400 tons of aniline (a toxic carcinogen) are released each year from synthetic indigo production.[^43] Two-thirds of this compound is either diffused into surrounding air and wastewater or unintentionally absorbed by plant workers. One-third of the compound remains in the denim that consumers eventually buy and wear. This type of large-scale chemical production creates additional issues with disposal, and because wastewater treatments are expensive, “many facilities dump the spent dyestuff directly into rivers, contributing to environmental pollution.”[^44] While just 17 production sites are responsible for most of the world’s synthetic indigo dye, only one falls under any type of wastewater restrictions. Low-income communities are disproportionately affected by the harmful effects of synthetic indigo production. About 87 percent of synthetic production today is “located in low-wage and lower-income countries,” which means workers and local inhabitants are exposed to toxic environments, and workers are compensated for little to no pay. [^45] Although it would be hoped that poor treatment of people in the name of indigo profits would be a thing of the past, unethical practices still remain.
 
 <param ve-image
@@ -169,7 +169,7 @@ In 2022, the SOMArts Cultural Center in San Francisco debuted an exhibition call
        license="Public domain"
        url="">
 
-### Conclusion
+### Bringing beauty to the forefront
 Indigo requires attentive care to create a successful dye, and objects coated in it must meet the air before the remarkable blue slowly begins to appear. Similarly, the history of indigo covers a wide geographic and cultural landscape, forming a sweeping narrative that can only unfold through careful attention. Only once the full story is exposed can the true beauty of indigo be revealed, a loveliness that surpasses the monetary value placed upon it by colonialism, reclaiming stories of indigenous tradition and peaceful revolution through art. Though the dark history of indigo may have faded into the background over time, just as it did in Vermeer’s Girl with a Pearl Earring, it still has important lessons to teach us. On the one hand, its history contains a grim warning of the destructive nature of greed. On the other hand, it shows the beauty nature supplies when these resources are used artistically and without exploitation.
 
 <param ve-image 
