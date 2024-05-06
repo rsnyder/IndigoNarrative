@@ -160,7 +160,7 @@ In 2022, the New York Botanical Garden planted the African-American Garden at it
 
 <param ve-image 
        label="NYBG Indigo Specimen" 
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
+       description="From the African American Garden."
        license="Public domain"
        url="https://sweetgum.nybg.org/science/vh/specimen-details/?irn=4862293">
 
