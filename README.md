@@ -108,9 +108,9 @@ src="https://books.google.com/books?id=q5ZeAAAAcAAJ&pg=PP5&output=embed">
 ### Gandhi
 The revolts, the play, and the subsequent Indigo Commission did result in reform for workers in Bengal, but did not end the injustices in the area of North Bihar. By the late nineteenth century, synthetic indigo dyes had taken hold, but the outbreak of WWI in 1914 instigated a demand for natural indigo once again, and British planters continued to exploit the labor of indigo farmers in India well into the twentieth century. As such, indigo became an important factor in India’s independence movement.  After developing his political ideas of peaceful resistance in South Africa, Gandhi returned to India, and his first protests against British rule in his home country took form in protests against the working conditions of indigo farmers in Champaran. 
 
-<param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
+<param ve-map center="17.620068, -71.562101" zoom="5" Title="Champaran" prefer-geojson>
 <param ve-map-marker
-       url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg"
+       url="https://github.com/IndigoGirlH/IndigoNarrative/blob/2485eb4b029861ae3fb3611bd24cec85e0f91ff8/IndiaMap.json"
        coords="19.057147, -72.527066"
        size="727, 464"
        circle="true">
