@@ -124,8 +124,7 @@ The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of 
        url=https://raw.githubusercontent.com/IndigoGirlH/IndigoNarrative/main/IndiaMap.json
        show-labels
        stroke-width="0">
-<param ve-map-marker
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Buddhist_Stupa_at_Kesariya_at_Champaran_%28east%29_district_of_Bihar%2C_India._12.jpg"
+<param ve-map-marker    url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Buddhist_Stupa_at_Kesariya_at_Champaran_%28east%29_district_of_Bihar%2C_India._12.jpg"
        coords="26.5833, 84.8333"
        size="400, 200" 
        size="400, 200"
