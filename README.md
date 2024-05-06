@@ -49,6 +49,13 @@ In the heat of this frantic rush for profit, European countries found that they 
 
 Two early modern accounts of the processes of indigo production in the Caribbean, one British and one French, highlight the labor-intensive nature of indigo production. In 1687, Hans Sloane traveled to Jamaica to serve as personal physician to the British governor of the island. In his Natural History of Jamaica, which documents the island’s flora and fauna, he describes how indigo was processed in the Caribbean: “Some of the seeds…are put into holes at foot’s distance…[it is] ready to cut in 3 months…” The indigo is then mixed with water, and after fermenting, it is let out of the trempoire to the batterie, where “’tis beat till it granulates…” The French-named trempoire and batterie refer to the sophisticated steepers and presses devised by European colonizers for the purpose of maximizing productivity. After the indigo is granulated, it is then mixed with more water and placed in sacks with oil beaten into it. Sloane briefly mentions the enslaved laborers who would have carried out this process when writing that “Some negroes and French have been kill’d by its ill savour,” drawing attention to the potential dangers of the plant even to those who are knowledgeable about it. This acknowledgment, while short, is entirely absent in the French account of indigo production.
 
+<param ve-image 
+       label="Indigo Production, French West Indies, 1667" 
+       description="from _Histoire Générale des Antilles Habitées par less Francois_."
+       license="Public domain"
+       fit=contain
+       url="https://www.archive.org/download/artdelindigotie00Beau/page/n134_w349">
+
 In 1694, Jean-Baptiste Labat travelled to Martinique for the purposes of missionary work. He continued to make his way through the Antilles and recounted his experiences in his Nouveau Voyage aux isles Francoises de l’Amerique. He also wrote about French indigo production in the Caribbean, though provided a more detailed account of the technology used: it is first produced in three vats, and they lie “…one above another, in the manner of a cascade…The first…is called the steeper…The second is called the battery…the third…is called the devilling.” The steeper ferments the indigo, which “…becomes like rotten dung…,” and is then beaten in the battery. Finally, the devilling is where the process of dyeing begins. Unlike the Sloane account, Labat does not mention who is performing this labor-intensive process: that is, enslaved laborers, some of whom were owned by Labat himself. This erasure of labor within both accounts certainly speaks to a pattern of separating the enslaved from the history of indigo production.
 
 <param ve-image 
