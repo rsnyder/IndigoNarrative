@@ -55,7 +55,7 @@ In 1694, Jean-Baptiste Labat travelled to Martinique for the purposes of mission
        label="Indigo Production, French West Indies, 1667" 
        description="from _Histoire Générale des Antilles Habitées par less Francois_."
        license="Public domain"
-       url="https://slaveryimages.org/database/image-result.php?objectid=388">
+       url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg">
 
 While some made great profits from the popularity of indigo, some profiteers found that “golden hopes which speculations like these have raised in the minds of thousands, have vanished on actual experiment, like visions of the morning.” Jamaica, for example “once furnished a large supply,” but parliament imposed a tax on indigo and many were “obliged to drop it,” as “several industrious families,” were ruined. When this occurred, French islands such as Hispaniola became the main source of supply throughout Great Britain and Europe. The extreme initial opulence of the plantation owners in Jamaica is often remarked upon, however, alongside stories of “the mortality of the negroes from the vapour of the fermented liquor (an alarming circumstance, that, as I am informed, both by the French and English planters, constantly attends the process).” Conditions were inhumane on many levels, and one account of a dinner party on the Governor's indigo plantation in Surinam states “what embittered the pleasure was, the inhuman disposition of Mr. Goetzee’s lady, who flogged her negro slaves for every little trifle.” One who did not clean the glasses to her satisfaction shot himself that very night before he could be punished, and the author “left the estate Catwyk, determined never more to return to it.”
 
