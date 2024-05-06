@@ -111,7 +111,7 @@ The revolts, the play, and the subsequent Indigo Commission did result in reform
 <param ve-map center="17.620068, -71.562101" zoom="5" Title="Champaran" prefer-geojson>
 <param ve-map-marker
        url="https://github.com/IndigoGirlH/IndigoNarrative/blob/2485eb4b029861ae3fb3611bd24cec85e0f91ff8/IndiaMap.json"
-       coords="19.057147, -72.527066"
+       coords="84.8333201804561, 26.583325188289365"
        size="727, 464"
        circle="true">
 
