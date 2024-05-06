@@ -28,20 +28,13 @@ More than 750 species belong to the _Indigofera L._ genus, and its native range 
 ### Ancient & Indigenous Uses of Indigo
 The earliest documented use of indigo can be found in 4000 B.C.E., located in what is now Peru. Throughout the Americas in ancient and premodern times, the species _Indigofera suffruticosa_ was used to make dyes for textiles, body paint, sculptures, pottery, and murals. A millennium later, in 3000 B.C.E., indigo in the form of the species _Indigofera tinctoria_ was cultivated in the Indus Valley. This period and location of cultivation is where indigo received both a European market and its name, known throughout the Roman Empire as _indicum_. As a consequence of both trade and indigenous cultivation, indigo was also used as a dye in the ancient regions and civilizations of West Africa, East Asia, and Mesopotamia.
 
-<param ve-image
-       label="Early Modern Indigofera Dosua"
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="Public domain"
-       url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5023320/bin/1501623-F1.jpg"
-       fit="contain">
-
 ### 16th-17th c.
 Though indigo had a rich history in the Indus Valley, the initial reception in Europe in the 16th century was mixed. Some were astonished by the dyeing power of this freshly encountered plant and were eager to use it for profit or personal use. Others had already invested all their capital woad, which had been commonly used to make blue dye since before Britain was conquered by the Romans. Although it was not as effective as indigo, woad had brought middle-class merchants great profit, and they had gained substantial influence sponsoring the creation of churches, towns and universities with their wealth. After indigo arrived, suppliers of woad fought their potential obsolescence, and those who were heavily invested in the product fought to keep their profits secure. France enacted a death penalty law attached to the use of indigo in 1609, and in Germany indigo was known colloquially as the “devil’s dye.” England declared indigo as a poisonous substance and banned it until 1660. Most dyers ignored the law throughout Europe, however, mixing indigo with woad to produce stronger vats.[^9] The East India Company, which was founded in 1600, happily supplied the illegal plant to dyers from India.[^10]​​ In spite of the EIC’s early interest, France changed their laws first and became the only legal source of indigo, which for a time allowed them to become the main supplier throughout Europe. This move gave them a head start in the competition for indigo profits that would continue throughout the next several hundred years.[^11]  
 
 <param ve-image 
        label="France versus England" 
        description="Napolean's military uniforms were also dyed with indigo."
-       license="Public domain"
+       license="James Gillray, Public domain, via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Caricature_gillray_plumpudding.jpg">
 
 ### Caribbean
