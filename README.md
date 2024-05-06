@@ -115,7 +115,6 @@ src="https://books.google.com/books?id=wD0YAAAAYAAJ&newbks=0&pg=PA1&output=embed
 ### Gandhi
 The revolts, the play, and the subsequent Indigo Commission did result in reform for workers in Bengal, but did not end the injustices in the area of North Bihar. By the late nineteenth century, synthetic indigo dyes had taken hold, but the outbreak of WWI in 1914 instigated a demand for natural indigo once again, and British planters continued to exploit the labor of indigo farmers in India well into the twentieth century. As such, indigo became an important factor in India’s independence movement.  After developing his political ideas of peaceful resistance in South Africa, Gandhi returned to India, and his first protests against British rule in his home country took form in protests against the working conditions of indigo farmers in Champaran. Due to his reputation as an activist, Gandhi was asked at the Lucknow Congress meeting in 1916 to see the plight of indigo farmers for himself, and he visited Motihari on April 15, 1917. There he was served notice of criminal procedures being enacted against him, as the District Magistrate of Champaran was threatened by his presence and asked him to leave immediately. Gandhi refused to retreat until he had completed his mission, however, and rumors spread among the people that the magistrate had been forced to apologize, spreading hope.  He wrote to the Government of Bihar with thousands of accounts from indigo workers he’d collected via interviews, and they appointed an enquiry committee, which made “drastic recommendations in its report to improve the state of affairs in the district,” which were then mostly implemented by the government.  His efforts became known as the Champaran Satyagraha, which is the location of the protests, plus the term Gandhi invented to describe his methods of peaceful resistance, derived from the Indian words Satya (truth) and agraha (firmness or force). His successful protests against the oppression and exploitation of the indigo farmers in Champaran became “the first laboratory of experiment…for his political ideas,” and were the start of his peaceful resistance to British rule in India. 
 
-
 <param ve-image
        label="Commemorative Stamp"
        description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
@@ -134,7 +133,7 @@ While just 17 production sites are responsible for most of the world’s synthet
 
 ### South Carolina Today: Return to Non-Synthetic Dyes
 
-Julie Dash’s 1991 film, Daughters of the Dust, uses indigo to reveal the lasting impact of slavery in twentieth century South Carolina. In the film, the indigo-stained hands of formerly enslaved people are a symbol of bodily subjection and generational trauma. The Peazant family lives on Igbo Landing, and their enslaved ancestors were forced to work on indigo plantations. Though they are no longer enslaved in the film, the stained hands of the eldest generation serve as a reminder of a painful past. Gullah expert Margaret Washington Creel notes that although indigo stains are not permanent, it left indelible “scars” on the flesh. While indigo stains here represent open possibilities, they also conversely illustrate the durability of the family’s Gullah culture and language. Tiffany Lethabo King considers the image of “porous indigo-stained hands” as a rendering of “black fungibility”: a way of  “[visualizing] Blackness as an open state of possibility with the capacity to transform conditions of subjection.” As such, the deep blue of indigo, which also dyes the Peazant women’s clothing and floods beautiful shots of the landing’s ocean scenery, becomes a stand-in for the family’s simultaneous boundlessness, resiliency, and inter-generational bond. 
+Julie Dash’s 1991 film, Daughters of the Dust, uses indigo to reveal the lasting impact of slavery in twentieth century South Carolina. In the film, the indigo-stained hands of formerly enslaved people are a symbol of bodily subjection and generational trauma. The Peazant family lives on Igbo Landing, and their enslaved ancestors were forced to work on indigo plantations. Though they are no longer enslaved in the film, the stained hands of the eldest generation serve as a reminder of a painful past. Gullah expert Margaret Washington Creel notes that although indigo stains are not permanent, it left indelible “scars” on the flesh.[^45] While indigo stains here represent open possibilities, they also conversely illustrate the durability of the family’s Gullah culture and language. Tiffany Lethabo King considers the image of “porous indigo-stained hands” as a rendering of “black fungibility”: a way of  “[visualizing] Blackness as an open state of possibility with the capacity to transform conditions of subjection.”[^46] As such, the deep blue of indigo, which also dyes the Peazant women’s clothing and floods beautiful shots of the landing’s ocean scenery, becomes a stand-in for the family’s simultaneous boundlessness, resiliency, and inter-generational bond. 
 
 <param ve-image 
        label="On the set of _Daughter of the Dust_" 
@@ -142,7 +141,7 @@ Julie Dash’s 1991 film, Daughters of the Dust, uses indigo to reveal the lasti
        license="Creative Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/7/77/Pamela_Ferrell_on_set_Film_Daughters_of_the_Dust_in_1989.png">
 
-Now in the twenty-first century, natural indigo dye is starting to reemerge in South Carolina’s Lowcountry despite a global use of harmful chemical dyes. With England’s turn to India for indigo and the rising popularity of synthetic dyes, indigo production largely disappeared from the state in the nineteenth century. However, some farmers and textile artists there have recently returned to the centuries-old methods of processing indigo dye in efforts to move away from the environmentally harmful petroleum-based dyes. For example, on a half-acre plot in Adams Run, farmer and entrepreneur Sheena Myers continues her family's tradition of harvesting indigo. For Myers, the plant’s revival provides both an eco-friendly alternative to chemical dyes and a way to get local communities “back to the land.” Indigo’s potential to build community and restore connection to the land is also important to Leigh “Madame Magar” Magar, who offers workshops and dye classes on a former indigo plantation on Johns Island near Charleston. Magar is a textile artist whose “seed to stitch” vision explores the “rich yet tangled past” of the plant. Through her work with indigo, she aims to “face the pain of South Carolina,” noting that she “can’t continue to work with it and deny that pain, especially as a white woman.” Thanks to farmers, educators, and artists like Myers, Comer, and Magar (others include Caroline and David Harper, Leanne Coulter, and Rhonda Davis), indigo production and use in South Carolina today has become a means of reconnecting with the past and subsequently honoring the enslaved laborers who were essential to the crop’s success in the eighteenth century.
+Now in the twenty-first century, natural indigo dye is starting to reemerge in South Carolina’s Lowcountry despite a global use of harmful chemical dyes. With England’s turn to India for indigo and the rising popularity of synthetic dyes, indigo production largely disappeared from the state in the nineteenth century. However, some farmers and textile artists there have recently returned to the centuries-old methods of processing indigo dye in efforts to move away from the environmentally harmful petroleum-based dyes. For example, on a half-acre plot in Adams Run, farmer and entrepreneur Sheena Myers continues her family's tradition of harvesting indigo. For Myers, the plant’s revival provides both an eco-friendly alternative to chemical dyes and a way to get local communities “back to the land.”[^47] Indigo’s potential to build community and restore connection to the land is also important to Leigh “Madame Magar” Magar, who offers workshops and dye classes on a former indigo plantation on Johns Island near Charleston.[^48] Magar is a textile artist whose “seed to stitch” vision explores the “rich yet tangled past” of the plant.[^49] Through her work with indigo, she aims to “face the pain of South Carolina,” noting that she “can’t continue to work with it and deny that pain, especially as a white woman.”[^50] Thanks to farmers, educators, and artists like Myers, Comer, and Magar (others include Caroline and David Harper, Leanne Coulter, and Rhonda Davis), indigo production and use in South Carolina today has become a means of reconnecting with the past and subsequently honoring the enslaved laborers who were essential to the crop’s success in the eighteenth century.[^51]
 
 <param ve-image 
        label="Early Modern Indigofera Dosua" 
@@ -150,7 +149,7 @@ Now in the twenty-first century, natural indigo dye is starting to reemerge in S
        license="Public domain"
        url="">
 
-###NYBG 
+### New York Botanical Gardens: "Making and Mending" Indigo
 In 2022, the New York Botanical Garden planted the African-American Garden at its Edible Academy. This garden intended to highlight plants that were and continue to remain integral to the African-American experience. Two varieties of indigo, one of which comes from Ossabaw Island in Georgia, are included in the garden in a plot entitled “Making & Mending,” which points to the usefulness of certain plants including indigo. In 2023, the African-American Garden opened an exhibition with the subtitle “The Caribbean Experience.” Indigo was once again included in this exhibition, this time in a plot entitled “Creativity/Creatividad/Kreyativite,” employing multiple translations to highlight the linguistic diversity of the Caribbean. When discussing the significance of the exhibition in relation to the legacy of slavery in the Caribbean, poet Dante Micheaux says “The contribution of Caribbean peoples to the survival of the African Diaspora cannot be overstated and is the example of liberty and self-determination — the demonstration that Black people could dismantle the global power of morally bankrupt enslavers and build a nation in the colonized world.” When applied to indigo, this quote highlights its creative possibilities and its potential for reclamation from the legacy of slavery through artistic pursuits and projects.
 
 <param ve-image 
@@ -159,7 +158,7 @@ In 2022, the New York Botanical Garden planted the African-American Garden at it
        license="Public domain"
        url="">
 
-###SOMArts 
+### Reclaiming Knowledge Through Art: SOMArts "Indigo Project" Exhibit
 In 2022, the SOMArts Cultural Center in San Francisco debuted an exhibition called “The Indigo Project.” This exhibition, which included multidisciplinary works such as textiles, photographs, and dolls, aimed to highlight the connection between Black culture and the production of indigo-based art. Created by priestess Bushmama Africa and artist Isha Rosemond, the exhibition was meant to point to, in Africa’s words, “Africa before colonization,” in which “all the dynasties wore indigo and they had their own print that signified each dynasty.” Certainly, the location of the exhibition in America and its emphasis on precolonial Africa makes a connection between the two inevitable, and reminds viewers of indigo’s equal significance to enslavement in America. By locating indigo-based art across two continents with an interconnected history and legacy of slavery, “The Indigo Project” seeks not only to highlight the similarities, but also the differences between the two: indigo in Africa as entirely distinct from America in the precolonial era, and indigo in America as indebted to African artistic traditions.
 
 <param ve-image
@@ -168,7 +167,7 @@ In 2022, the SOMArts Cultural Center in San Francisco debuted an exhibition call
        license="Public domain"
        url="">
 
-###Conclusion
+### Conclusion
 Indigo requires attentive care to create a successful dye, and objects coated in it must meet the air before the remarkable blue slowly begins to appear. Similarly, the history of indigo covers a wide geographic and cultural landscape, forming a sweeping narrative that can only unfold through careful attention. Only once the full story is exposed can the true beauty of indigo be revealed, a loveliness that surpasses the monetary value placed upon it by colonialism, reclaiming stories of indigenous tradition and peaceful revolution through art. Though the dark history of indigo may have faded into the background over time, just as it did in Vermeer’s Girl with a Pearl Earring, it still has important lessons to teach us. On the one hand, its history contains a grim warning of the destructive nature of greed. On the other hand, it shows the beauty nature supplies when these resources are used artistically and without exploitation.
 
 
@@ -178,89 +177,6 @@ Indigo requires attentive care to create a successful dye, and objects coated in
        license="Public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/9/99/Indigofera_jucunda00.jpg">
 
-### Timeline
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-knightlab-timeline
-source="1aancGqzVzVry0wmpCQ6FzzVYLKp2U7DtL-MtetiynUY"
-timenav-position="bottom"
-hash-bookmark="false”
-initial-zoom="1"
-height="750">
-
-## Sample Image 3/11 (jordan)
-This early modern illustration comes from the _Revue Horticole_. It features an indigo plant and its <span data-mouseover-image-zoomto="506,1726,963,778
-">flowers.</span>
-<param ve-image 
-       label="Early Modern Indigofera Dosua" 
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
-
-
-## Image
-
- This illustration, which is included in _L'art de l'indigotier_ (1770) as a supplement to writings about indigo production, depicts indigo workers <span data-mouseover-image-zoomto="1671,3280,1122,1012">churning indigo leaves.</span>
-<param ve-image 
-       label="L'art de l'indigotier" 
-       description="by Paul de Beauvais-Raseau, illustrations by L.F. Delatour" 
-       license="public domain" 
-       url="https://www.biodiversitylibrary.org/pageImage/40474136">
-
-## Timeline
-
-This timeline demonstrates the evolution of colonial indigo cultivation across three continents.
-<param ve-knightlab-timeline
-       source="1Rswjl0FEfisfsg9Mb8gmv0zWzJWwCDc74wSVhYjD_PA"
-       timenav-position="bottom"
-       hash-bookmark="false"
-       initial-zoom="1"
-       height="750">
-
-## Map
-
-By the 17th century, the British, Spanish, and French established indigo plantations in the Caribbean (or West Indies). <span data-mouseover-map-flyto="19.084327, -73.076567, 8">Haiti (Saint-Domingue)</span> saw particularly prolific indigo production, and networks of knowledge exchange were eventually established between these colonies and others in West Africa, especially <span data-mouseover-map-flyto="14.593509, -14.521971, 7">Senegal</span>.
-<param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
-<param ve-map-marker
-       url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg"
-       coords="19.057147, -72.527066"
-       size="727, 464"
-       circle="true">
-
-## India Map
-The <span data-mouseover-map-flyto="26.6156, 84.8409, 11">Champaran district of Bihar</span> is where Gandhi began his first efforts of peaceful resistance in India protesting the poor treatment and low pay of indigo workers in 1917.
-<param ve-map
-       center="26.5833, 84.8333"
-       zoom=5
-       title="Champaran"
-       prefer-geojson>
-<param ve-map-layer geojson
-       url="https://raw.githubusercontent.com/IndigoGirlH/IndigoNarrative/main/IndiaMap.json"
-       show-labels
-       stroke-width="0">
-<param ve-map-marker
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Buddhist_Stupa_at_Kesariya_at_Champaran_%28east%29_district_of_Bihar%2C_India._12.jpg"
-       coords="26.5833, 84.8333"
-       size="400, 200"
-       circle="true">
-       
-## SC Map
-Indigo was a major cash crop in colonial South Carolina, and most of its production was done in the port city of Charleston. Eliza Lucas Pinckney first planted Indigo seed at her Wappoo Hall Plantation in 1741. While Eliza preferred Wappoo Hall, the Pinckney family also owned and cultivated indigo at <span data-mouseover-map-flyto="32.846122, -79.824657, 11">Snee Farm in Charleston, which is now the Charles Pinckney National Historic Site.</span>
-<param ve-map
-       center="32.818369, -79.929117"
-       zoom="11"
-       Title="Charleston, South Carolina"
-       prefer-geojson>
-<param ve-map-layer geojson
-       url="https://raw.githubusercontent.com/IndigoGirlH/IndigoNarrative/main/SCgeo.json"
-       show-labels
-       show-titles
-       stroke-width="0">
-<param ve-map-marker
-       coords="32.846074, -79.824693"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/11/Charles_Pinckney_National_Historic_Site_%28de0d374d-090d-46eb-b83a-a106effa97c4%29.jpg"
-       size="800, 533"
-       circle="true">
-       
 
 # References
 
@@ -271,11 +187,17 @@ Indigo was a major cash crop in colonial South Carolina, and most of its product
 [^5]: "Indigo," MAP Academy Encyclopedia of Art, MAP Academy, April 21, 2022, https://mapacademy.io/article/indigo/
 [^16]:  G. Terry. Sharrer, “Indigo in Carolina, 1671-1796,” The South Carolina Historical Magazine 72, no. 2 (1971): 94–103, 95.
 [^17]: Sharrer 95
-
-Andrea Feeser, "Slave John Williams,: A Key Contributor to the Lucas-Pinckney Indigo Concern," in _Red, White, and Black Make Blue: Indigo in the Fabric of Colonial South Carolina Life,_ (Athens, GA: University of Georgia Press, 2013), 99–108, 103.
-[^13] Ibid, 108.
-[^14] Ibid, 99.
-[^15] Eliza Pinckney quoted in Ibid, 105.
-[^16] Ibid, 105.
-[^17] Ibid, 106–7.
-[^18] Ibid, 107.
+[^18]: Sharrer 95
+[^19]: Andrea Feeser, "Slave John Williams,: A Key Contributor to the Lucas-Pinckney Indigo Concern," in _Red, White, and Black Make Blue: Indigo in the Fabric of Colonial South Carolina Life,_ (Athens, GA: University of Georgia Press, 2013), 99–108, 103.
+[^20] Ibid 108
+[^21] Ibid 99
+[^22] Eliza Pinckney quoted in Feeser 105
+[^23] Feeser 105–6
+[^24] Feeser 106–7
+[^45]: Margaret Washington Creel quoted in Tiffany Lethabo King, “The Labor of (Re)reading Plantation Landscapes Fungible(ly).” Antipode 48, no. 4 (2016): 1022–39, 1033–34
+[^46]: King 1023
+[^47]: Latria Graham, “The Blue That Enchanted the World.” Smithsonian Magazine. Smithsonian Institution, December 2022. smithsonianmag.com/arts-culture/indigo-making-comeback-south-carolina-180980987/.
+[^48]: Barbara Noe Kennedy, “Indigo is making a comeback in South Carolina—here’s where to find it.” National Geographic. National Geographic Society, 7 March 2013. nationalgeographic.com/travel/article/south-carolina-indigo-artists-enslaved-plantations.
+[^49]: Leigh Magar, “Madame Magar Vision,” Madame Magar, accessed 6 May 2024, https://madamemagar.com/vision.
+[^50]: Leigh Magar quoted in Graham
+[^51]: Kennedy
