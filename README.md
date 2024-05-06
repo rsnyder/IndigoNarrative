@@ -29,8 +29,7 @@ More than 750 species belong to the _Indigofera L._ genus, and its native range 
 The earliest documented use of indigo can be found in 4000 B.C.E., located in what is now Peru. Throughout the Americas in ancient and premodern times, the species _Indigofera suffruticosa_ was used to make dyes for textiles, body paint, sculptures, pottery, and murals. A millennium later, in 3000 B.C.E., indigo in the form of the species _Indigofera tinctoria_ was cultivated in the Indus Valley. This period and location of cultivation is where indigo received both a European market and its name, known throughout the Roman Empire as _indicum_. As a consequence of both trade and indigenous cultivation, indigo was also used as a dye in the ancient regions and civilizations of West Africa, East Asia, and Mesopotamia.
 
 <param ve-image
-       label="Early Modern Indigofera Dosua"
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
+       label="Indus Valley Map"
        license="Public domain"
        contain=fit
        url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png">
