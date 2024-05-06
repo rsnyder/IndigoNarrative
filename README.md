@@ -125,7 +125,8 @@ The revolts, the play, and the subsequent Indigo Commission did result in reform
 <param ve-image
        label="Commemorative Stamp"
        description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
-       license="CC BY-SA 4.0"
+       license="Wikimedia Commons"
+       fit=contain
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/Stamp_of_India_-_2017_-_Colnect_700591_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
 
 ### Synthetic Dyes
