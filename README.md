@@ -40,6 +40,13 @@ Though indigo had a rich history in the Indus Valley, the initial reception in E
 ### Caribbean
 In the heat of this frantic rush for profit, European countries found that they could cheaply plant indigo in the Caribbean. Caribbean indigo production began in the seventeenth century, born out of economic competition between the Spanish, French, and British, as well as the necessity for indigo to be grown in a tropical climate. The first European indigo plantations in the Caribbean emerged in the 1630s, and expanded to include other islands by the mid-1600s. Jamaica, Martinique, and Haiti became prominent indigo producers, with Haiti producing the most indigo throughout the remainder of the seventeenth century and into the early eighteenth century. By 1790, the year before the onset of the Haitian Revolution, there were 3,160 indigo plantations on the island. European overseers of indigo plantations relied on both text written by European naturalists and modern technology in order to produce a successful indigo crop. 
 
+<param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
+<param ve-map-marker
+       url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg"
+       coords="19.057147, -72.527066"
+       size="727, 464"
+       circle="true">
+
 Two early modern accounts of the processes of indigo production in the Caribbean, one British and one French, highlight the labor-intensive nature of indigo production. In 1687, Hans Sloane traveled to Jamaica to serve as personal physician to the British governor of the island. In his Natural History of Jamaica, which documents the island’s flora and fauna, he describes how indigo was processed in the Caribbean: “Some of the seeds…are put into holes at foot’s distance…[it is] ready to cut in 3 months…” The indigo is then mixed with water, and after fermenting, it is let out of the trempoire to the batterie, where “’tis beat till it granulates…” The French-named trempoire and batterie refer to the sophisticated steepers and presses devised by European colonizers for the purpose of maximizing productivity. After the indigo is granulated, it is then mixed with more water and placed in sacks with oil beaten into it. Sloane briefly mentions the enslaved laborers who would have carried out this process when writing that “Some negroes and French have been kill’d by its ill savour,” drawing attention to the potential dangers of the plant even to those who are knowledgeable about it. This acknowledgment, while short, is entirely absent in the French account of indigo production.
 
 In 1694, Jean-Baptiste Labat travelled to Martinique for the purposes of missionary work. He continued to make his way through the Antilles and recounted his experiences in his Nouveau Voyage aux isles Francoises de l’Amerique. He also wrote about French indigo production in the Caribbean, though provided a more detailed account of the technology used: it is first produced in three vats, and they lie “…one above another, in the manner of a cascade…The first…is called the steeper…The second is called the battery…the third…is called the devilling.” The steeper ferments the indigo, which “…becomes like rotten dung…,” and is then beaten in the battery. Finally, the devilling is where the process of dyeing begins. Unlike the Sloane account, Labat does not mention who is performing this labor-intensive process: that is, enslaved laborers, some of whom were owned by Labat himself. This erasure of labor within both accounts certainly speaks to a pattern of separating the enslaved from the history of indigo production.
@@ -50,21 +57,6 @@ In 1694, Jean-Baptiste Labat travelled to Martinique for the purposes of mission
        license="Public domain"
        fit=contain
        url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg">
-
-While some made great profits from the popularity of indigo, some profiteers found that “golden hopes which speculations like these have raised in the minds of thousands, have vanished on actual experiment, like visions of the morning.” Jamaica, for example “once furnished a large supply,” but parliament imposed a tax on indigo and many were “obliged to drop it,” as “several industrious families,” were ruined. When this occurred, French islands such as Hispaniola became the main source of supply throughout Great Britain and Europe. The extreme initial opulence of the plantation owners in Jamaica is often remarked upon, however, alongside stories of “the mortality of the negroes from the vapour of the fermented liquor (an alarming circumstance, that, as I am informed, both by the French and English planters, constantly attends the process).” Conditions were inhumane on many levels, and one account of a dinner party on the Governor's indigo plantation in Surinam states “what embittered the pleasure was, the inhuman disposition of Mr. Goetzee’s lady, who flogged her negro slaves for every little trifle.” One who did not clean the glasses to her satisfaction shot himself that very night before he could be punished, and the author “left the estate Catwyk, determined never more to return to it.”
-
-<param ve-image 
-       label="Early Modern Indigofera Dosua" 
-       description="from the Revue horticole. Paris :Librairie agricole de la maison rustique,1829-1974."
-       license="Public domain"
-       url="https://biodiversitylibrary.org/pageImage/54768315">
-
-<param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
-<param ve-map-marker
-       url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg"
-       coords="19.057147, -72.527066"
-       size="727, 464"
-       circle="true">
 
 ### Eighteenth Century: Indigo in South Carolina
 
