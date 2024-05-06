@@ -130,7 +130,7 @@ While just 17 production sites are responsible for most of the world’s synthet
        label="Denim Factory"
        description=""
        license="Public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/80/Clipping_of_Denim_Pant.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/8/80/Clipping_of_Denim_Pant.JPG">
 
 ### South Carolina Today: Return to Non-Synthetic Dyes
 
