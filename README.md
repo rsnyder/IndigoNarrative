@@ -145,6 +145,7 @@ Though the Champaran Satyagraha was an important step both for India’s indepen
        label="Denim Factory"
        description=""
        license="Public domain"
+       contain=fit
        url="https://upload.wikimedia.org/wikipedia/commons/8/80/Clipping_of_Denim_Pant.JPG">
 
 ### South Carolina Today: Return to Non-Synthetic Dyes
