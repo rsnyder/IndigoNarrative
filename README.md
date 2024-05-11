@@ -28,7 +28,7 @@ The earliest documented use of indigo can be found in 4000 B.C.E., located in wh
 <param ve-image
        label="Indus Valley Map"
        license="Public domain"
-       contain=fit
+       fit="fit"
        url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png">
 
 ### Beautiful but banned
@@ -41,7 +41,7 @@ Though indigo had a rich history in the Indus Valley, the initial reception in E
 
 ### Exploitation in the Caribbean
 In the heat of this frantic rush for profit, European countries found that they could cheaply plant indigo in the Caribbean. Caribbean indigo production began in the seventeenth century, born out of economic competition between the Spanish, French, and British, as well as the necessity for indigo to be grown in a tropical climate. The first European indigo plantations in the Caribbean emerged in the 1630s, and expanded to include other islands by the mid-1600s. Jamaica, Martinique, and Haiti became prominent indigo producers, with Haiti producing the most indigo throughout the remainder of the seventeenth century and into the early eighteenth century. By 1790, the year before the onset of the Haitian Revolution, there were 3,160 indigo plantations on the island. European overseers of indigo plantations relied on both text written by European naturalists and modern technology in order to produce a successful indigo crop. 
-<param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
+<param ve-map center="17.620068, -71.562101" zoom="5" title="The Caribbean" prefer-geojson>
 <param ve-map-marker
        url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg"
        coords="19.057147, -72.527066"
@@ -55,7 +55,7 @@ In 1694, Jean-Baptiste Labat travelled to Martinique for the purposes of mission
        label="Indigo Production, French West Indies, 1667" 
        description="from _Histoire Générale des Antilles Habitées par less Francois_."
        license="Public domain"
-       fit=contain
+       fit="contain"
        url="https://si.regeneratedidentities.org/project/DataFiles/SI-OB-388/388-4.jpg">
 
 ### South Carolina enters the Indigo market
@@ -89,7 +89,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/1/11/Charles_Pinckney_Nation
 Decades later in 1860, Lieutenant Governor of South Carolina Plowden Weston stated that of all the state’s youths “not one… remembers the cultivation of indigo.” Indeed, following the American Revolution in 1776, England turned to India for its indigo supply due to political tensions with the newly formed United States. Many English planters coerced Bengali farmers into growing indigo through both lawful and criminal means. One notorious planter named George Meares burned the homes of uncooperative farmers to the ground and successfully petitioned the government to forbid the growth of the rice on land used for indigo.[^26] As a response to this poor treatment, the “Blue Mutiny” occurred in 1859, and prisons were flooded past capacity with arrested protestors who refused to sow indigo for English planters.[^27] The years leading up to the revolt had seen the beginnings of a national sentiment in Calcutta stemming from “a political struggle against the British mercantile community,” as well as “the rise of new social classes in rural Bengal.” [^28] With a newly heightened political consciousness, the Bengali farmers’ collective action continued for more than a year, and while it was largely a peaceful revolt, some ryot groups deployed methods of militant violence.[^29] 
 <param ve-image
        label="Group of Indigo beaters"
-       license=Oscar Mallitte, Public domain, via Wikimedia Commons
+       license="Oscar Mallitte, Public domain, via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/e/ef/20-Group-of_Indigo-beaters.jpg">
 
 In 1860, the Indigo Revolt inspired a new work of creativity, not of cloth or dye, but of revolutionary theater.[^30] The play Nil Darpan; or, The Indigo Planting Mirror allows us to reclaim knowledge from this time through art. As a postal worker and student of literature, Dinabandhu Mitra saw the strife surrounding indigo plantations. For Mitra, the blue stains on the hands of indigo farmers were mirrored by the “stain of selfishness” that marked the British indigo planters.[^31] During the revolts, he was inspired to pen a performance to peacefully combat the cruel treatment farmers endured. Nil Darpan depicts the ways in which English planters coerced farmers into growing indigo through exploitative means. They were often forced to “take out loans and sell the crop to planters at fixed (low) prices, forcing them into a cycle of debt and economic dependence that was often enforced with violence,” ultimately leaving the farmer little recourse to improve their conditions.[^32] In the drama’s first act, character Ray Churn vocalizes the ryots’ concerns when he cries out, “What shall we eat now, and what shall our children take? This large family may die without food...What has the Indigo of this white man done?”[^33] Throughout the drama, the violence and oppression committed by British planters “[results] in either the madness of death of almost every one of the principal Indian characters,” and “Not only do the planters ruin the ryots, but they also corrupt the judicial officers of the government.”[^34]
@@ -104,17 +104,17 @@ src="https://books.google.com/books?id=q5ZeAAAAcAAJ&pg=PP5&output=embed">
 The revolts, the play, and the subsequent Indigo Commission did result in reform for workers in Bengal, but did not end the injustices in the area of North Bihar. By the late nineteenth century, synthetic indigo dyes had taken hold, but the outbreak of WWI in 1914 instigated a demand for natural indigo once again, and British planters continued to exploit the labor of indigo farmers in India well into the twentieth century. As such, indigo became an important factor in India’s independence movement.  After developing his political ideas of peaceful resistance in South Africa, Gandhi returned to India, and his first protests against British rule in his home country took form in protests against the working conditions of indigo farmers in <span data-mouseover-map-flyto="26.6156, 84.8409, 11">the Champaran district of Bihar.</span>
 <param ve-map
        center="26.5833, 84.8333"
-       zoom=5
+       zoom="5"
        Title="Champaran"
        prefer-geojson>
 <param ve-map-layer geojson
        url=https://raw.githubusercontent.com/IndigoGirlH/IndigoNarrative/main/IndiaMap.json
        show-labels
        stroke-width="0">
-<param ve-map-marker    url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Buddhist_Stupa_at_Kesariya_at_Champaran_%28east%29_district_of_Bihar%2C_India._12.jpg"
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Buddhist_Stupa_at_Kesariya_at_Champaran_%28east%29_district_of_Bihar%2C_India._12.jpg"
        coords="26.5833, 84.8333"
        size="400, 200" 
-       size="400, 200"
        circle="true">
 
 Due to his reputation as an activist, Gandhi was asked at the Lucknow Congress meeting in 1916 to see the plight of indigo farmers for himself, and he visited Motihari on April 15, 1917. There he was served notice of criminal procedures being enacted against him, as the District Magistrate of Champaran was threatened by his presence and asked him to leave immediately. Gandhi refused to retreat until he had completed his mission, however, and rumors spread among the people that the magistrate had been forced to apologize, spreading hope.  He wrote to the Government of Bihar with thousands of accounts from indigo workers he’d collected via interviews, and they appointed an enquiry committee, which made “drastic recommendations in its report to improve the state of affairs in the district,” which were then mostly implemented by the government. [^39]  His efforts became known as the Champaran Satyagraha, which is the location of the protests, plus the term Gandhi invented to describe his methods of peaceful resistance, derived from the Indian words Satya (truth) and agraha (firmness or force).[^40] His successful protests against the oppression and exploitation of the indigo farmers in Champaran became “the first laboratory of experiment…for his political ideas,” and were the start of his peaceful resistance to British rule in India.[^41]
@@ -122,16 +122,15 @@ Due to his reputation as an activist, Gandhi was asked at the Lucknow Congress m
        label="Commemorative Stamp"
        description="Stamp commemorating the 100th anniversary of Champaran Satyagraha"
        license="Wikimedia Commons"
-       fit=contain
+       fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/Stamp_of_India_-_2017_-_Colnect_700591_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
 
 ### Impact of synthetic dyes today
 Though the Champaran Satyagraha was an important step both for India’s independence and a more ethical indigo farming industry, health and labor issues for factory workers continue today, even though the use of natural indigo dye has declined significantly due to the creation of synthetic indigo dye. The enduring demand for blue dye in the textile industry has placed synthetic indigo production on a large-scale industrial level: every year, about 80,000 tons of chemically produced indigo are created using non-renewable petrochemicals, generating toxic compounds.[^42] Moreover, at least 400 tons of aniline (a toxic carcinogen) are released each year from synthetic indigo production.[^43] Two-thirds of this compound is either diffused into surrounding air and wastewater or unintentionally absorbed by plant workers. One-third of the compound remains in the denim that consumers eventually buy and wear. This type of large-scale chemical production creates additional issues with disposal, and because wastewater treatments are expensive, “many facilities dump the spent dyestuff directly into rivers, contributing to environmental pollution.”[^44] While just 17 production sites are responsible for most of the world’s synthetic indigo dye, only one falls under any type of wastewater restrictions. Low-income communities are disproportionately affected by the harmful effects of synthetic indigo production. About 87 percent of synthetic production today is “located in low-wage and lower-income countries,” which means workers and local inhabitants are exposed to toxic environments, and workers are compensated for little to no pay. [^45] Although it would be hoped that poor treatment of people in the name of indigo profits would be a thing of the past, unethical practices still remain.
 <param ve-image
        label="Denim Factory"
-       description=""
        license="Public domain"
-       contain=fit
+       fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/8/80/Clipping_of_Denim_Pant.JPG">
 
 ### South Carolina Today: Return to Non-Synthetic Dyes
@@ -146,7 +145,7 @@ Julie Dash’s 1991 film, Daughters of the Dust, uses indigo to reveal the lasti
 Now in the twenty-first century, natural indigo dye is starting to reemerge in South Carolina’s Lowcountry despite a global use of harmful chemical dyes. With England’s turn to India for indigo and the rising popularity of synthetic dyes, indigo production largely disappeared from the state in the nineteenth century. However, some farmers and textile artists there have recently returned to the centuries-old methods of processing indigo dye in efforts to move away from the environmentally harmful petroleum-based dyes. For example, on a half-acre plot in Adams Run, farmer and entrepreneur Sheena Myers continues her family's tradition of harvesting indigo. For Myers, the plant’s revival provides both an eco-friendly alternative to chemical dyes and a way to get local communities “back to the land.”[^48] Indigo’s potential to build community and restore connection to the land is also important to Leigh “Madame Magar” Magar, who offers workshops and dye classes on a former indigo plantation on Johns Island near Charleston.[^49] Magar is a textile artist whose “seed to stitch” vision explores the “rich yet tangled past” of the plant.[^50] Through her work with indigo, she aims to “face the pain of South Carolina,” noting that she “can’t continue to work with it and deny that pain, especially as a white woman.”[^51] Thanks to farmers, educators, and artists like Myers, Comer, and Magar (others include Caroline and David Harper, Leanne Coulter, and Rhonda Davis), indigo production and use in South Carolina today has become a means of reconnecting with the past and subsequently honoring the enslaved laborers who were essential to the crop’s success in the eighteenth century.[^52]
 <param ve-image 
        label="Winyah Indigo Society and Public Library" 
-       license=Curt Teich & Co., Chicago (publisher), Public domain, via Wikimedia Commons
+       license="Curt Teich & Co., Chicago (publisher), Public domain, via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/7/7a/Georgetown_-_Winyah_Indigo_Society_and_Public_Library.jpg">
 
 ### New York Botanical Gardens: "Making and Mending" Indigo
